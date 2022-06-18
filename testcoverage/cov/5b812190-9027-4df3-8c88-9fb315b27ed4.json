@@ -1,0 +1,28 @@
+{
+  "scriptId": "177",
+  "url": "https://deno.land/std@0.105.0/_util/has_own_property.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 1985,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hasOwnProperty",
+      "ranges": [
+        {
+          "startOffset": 7,
+          "endOffset": 150,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

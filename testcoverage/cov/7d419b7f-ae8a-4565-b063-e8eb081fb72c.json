@@ -1,0 +1,17 @@
+{
+  "scriptId": "227",
+  "url": "https://jspm.dev/npm:component-emitter@1!cjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 60,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "scriptId": "265",
+  "url": "https://jspm.dev/npm:has-symbols@1.0.2/shams!cjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 1944,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hasSymbols",
+      "ranges": [
+        {
+          "startOffset": 87,
+          "endOffset": 1860,
+          "count": 1
+        },
+        {
+          "startOffset": 201,
+          "endOffset": 224,
+          "count": 0
+        },
+        {
+          "startOffset": 291,
+          "endOffset": 1252,
+          "count": 0
+        },
+        {
+          "startOffset": 1254,
+          "endOffset": 1381,
+          "count": 0
+        },
+        {
+          "startOffset": 1383,
+          "endOffset": 1499,
+          "count": 0
+        },
+        {
+          "startOffset": 1501,
+          "endOffset": 1859,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

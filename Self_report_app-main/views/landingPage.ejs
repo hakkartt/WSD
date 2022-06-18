@@ -1,0 +1,41 @@
+<%- include('./partials/header.ejs') %>
+<h1>Welcome!</h1>
+
+<h5>In this application you can:</h5>
+<ul>
+    <li>Create an account</li>
+    <li>Store various data about daily life</li>
+    <li>See statistics about the stored data!</li>
+</ul>
+
+<div style="height: 5vh;"></div>
+
+<h3>Here are some statistics from our users:</h3>
+<div id="moodMessage">
+
+    <ul id="moodList"></ul>
+</div>
+
+
+
+
+<div style="height: 5vh;"></div>
+<p>Already have an account?</p>
+
+<a href="/auth/login">
+    <p>
+    Click here to login!
+    </p>
+</a>
+
+<p>Dont have an account?</p>
+<a href="/auth/registration">
+    <p>
+    Click here to register!
+    </p>
+</a>
+
+ 
+<%- include('./partials/footer.ejs') %>
+
+

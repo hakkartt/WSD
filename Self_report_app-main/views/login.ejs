@@ -1,0 +1,32 @@
+<%- include('./partials/header.ejs') %>
+<h1>Login</h1>
+<form method="POST" action="/auth/login">
+    <label for="emailField">Email</label>
+    <input type="email" name="email" is="emailField" />
+    <%- include('./partials/error.ejs', { errors: errors, attribute: 'email'}) %>
+
+    <label for="passwordField">Password</label>
+    <input type="password" name="password" is="passwordField" />
+    <%- include('./partials/error.ejs', { errors: errors, attribute: 'password'}) %>
+    <%- include('./partials/error.ejs', { errors: errors, attribute: 'both'}) %>
+
+    <input type="submit" value="Submit!" />
+</form>
+
+<div style="height: 20vh;"></div>
+<p>Dont have an account?</p>
+<a href="/auth/registration">
+    <p>
+    Click here to register!
+    </p>
+</a>
+
+<a href="/home">
+    <p>
+    Home
+    </p>
+</a>
+ 
+<%- include('./partials/footer.ejs') %>
+
+

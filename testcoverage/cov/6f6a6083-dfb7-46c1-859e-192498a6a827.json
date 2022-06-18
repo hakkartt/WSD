@@ -1,0 +1,83 @@
+{
+  "scriptId": "102",
+  "url": "https://deno.land/x/oak@v9.0.1/middleware/proxy.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 22621,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createMatcher",
+      "ranges": [
+        {
+          "startOffset": 694,
+          "endOffset": 1077,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createRequest",
+      "ranges": [
+        {
+          "startOffset": 1078,
+          "endOffset": 3109,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getBodyInit",
+      "ranges": [
+        {
+          "startOffset": 3110,
+          "endOffset": 3253,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "iterableHeaders",
+      "ranges": [
+        {
+          "startOffset": 3254,
+          "endOffset": 3513,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "processResponse",
+      "ranges": [
+        {
+          "startOffset": 3514,
+          "endOffset": 4194,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "proxy",
+      "ranges": [
+        {
+          "startOffset": 4202,
+          "endOffset": 4650,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

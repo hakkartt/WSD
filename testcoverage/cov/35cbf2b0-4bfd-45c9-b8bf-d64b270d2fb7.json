@@ -1,0 +1,153 @@
+{
+  "scriptId": "45",
+  "url": "deno:ext/net/01_net.js",
+  "functions": [
+    {
+      "functionName": "opAccept",
+      "ranges": [
+        {
+          "startOffset": 733,
+          "endOffset": 830,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "opListen",
+      "ranges": [
+        {
+          "startOffset": 834,
+          "endOffset": 906,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 1397,
+          "endOffset": 1452,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Conn",
+      "ranges": [
+        {
+          "startOffset": 1458,
+          "endOffset": 1600,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get rid",
+      "ranges": [
+        {
+          "startOffset": 1606,
+          "endOffset": 1647,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 2012,
+          "endOffset": 2038,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Listener",
+      "ranges": [
+        {
+          "startOffset": 2045,
+          "endOffset": 2123,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get rid",
+      "ranges": [
+        {
+          "startOffset": 2129,
+          "endOffset": 2170,
+          "count": 8
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get addr",
+      "ranges": [
+        {
+          "startOffset": 2176,
+          "endOffset": 2219,
+          "count": 6
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "accept",
+      "ranges": [
+        {
+          "startOffset": 2225,
+          "endOffset": 2375,
+          "count": 4
+        },
+        {
+          "startOffset": 2306,
+          "endOffset": 2374,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "close",
+      "ranges": [
+        {
+          "startOffset": 2803,
+          "endOffset": 2846,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "listen",
+      "ranges": [
+        {
+          "startOffset": 3987,
+          "endOffset": 4233,
+          "count": 4
+        },
+        {
+          "startOffset": 4130,
+          "endOffset": 4141,
+          "count": 2
+        },
+        {
+          "startOffset": 4142,
+          "endOffset": 4152,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

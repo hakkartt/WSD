@@ -1,0 +1,59 @@
+{
+  "scriptId": "82",
+  "url": "file:///home/arttu/Documents/WSD/testcoverage/services/helloService.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 302,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getHello",
+      "ranges": [
+        {
+          "startOffset": 52,
+          "endOffset": 79,
+          "count": 3
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "setHello",
+      "ranges": [
+        {
+          "startOffset": 99,
+          "endOffset": 268,
+          "count": 4
+        },
+        {
+          "startOffset": 136,
+          "endOffset": 153,
+          "count": 1
+        },
+        {
+          "startOffset": 153,
+          "endOffset": 266,
+          "count": 3
+        },
+        {
+          "startOffset": 212,
+          "endOffset": 243,
+          "count": 2
+        },
+        {
+          "startOffset": 243,
+          "endOffset": 266,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

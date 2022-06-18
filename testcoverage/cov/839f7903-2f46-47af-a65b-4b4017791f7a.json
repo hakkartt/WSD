@@ -1,0 +1,94 @@
+{
+  "scriptId": "188",
+  "url": "https://deno.land/x/eta@v1.12.3/storage.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 2450,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 59,
+          "endOffset": 64,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Cacher",
+      "ranges": [
+        {
+          "startOffset": 70,
+          "endOffset": 124,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "define",
+      "ranges": [
+        {
+          "startOffset": 129,
+          "endOffset": 184,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get",
+      "ranges": [
+        {
+          "startOffset": 189,
+          "endOffset": 237,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "remove",
+      "ranges": [
+        {
+          "startOffset": 242,
+          "endOffset": 293,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "reset",
+      "ranges": [
+        {
+          "startOffset": 298,
+          "endOffset": 338,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "load",
+      "ranges": [
+        {
+          "startOffset": 343,
+          "endOffset": 406,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

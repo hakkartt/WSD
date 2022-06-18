@@ -1,0 +1,50 @@
+{
+  "scriptId": "152",
+  "url": "https://deno.land/x/eta@v1.12.3/render.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 9625,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "handleCache",
+      "ranges": [
+        {
+          "startOffset": 154,
+          "endOffset": 582,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "render",
+      "ranges": [
+        {
+          "startOffset": 598,
+          "endOffset": 1583,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "renderAsync",
+      "ranges": [
+        {
+          "startOffset": 1591,
+          "endOffset": 1726,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

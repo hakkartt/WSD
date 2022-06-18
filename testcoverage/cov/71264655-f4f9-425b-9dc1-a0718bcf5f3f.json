@@ -1,0 +1,50 @@
+{
+  "scriptId": "186",
+  "url": "https://deno.land/x/eta@v1.12.3/file-utils.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 14906,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getWholeFilePath",
+      "ranges": [
+        {
+          "startOffset": 123,
+          "endOffset": 341,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getPath",
+      "ranges": [
+        {
+          "startOffset": 342,
+          "endOffset": 2620,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readFile",
+      "ranges": [
+        {
+          "startOffset": 2621,
+          "endOffset": 2825,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

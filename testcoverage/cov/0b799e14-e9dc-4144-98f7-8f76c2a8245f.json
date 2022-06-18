@@ -1,0 +1,39 @@
+{
+  "scriptId": "149",
+  "url": "https://deno.land/x/eta@v1.12.3/compile-string.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 9954,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compileToString",
+      "ranges": [
+        {
+          "startOffset": 47,
+          "endOffset": 1233,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "compileScope",
+      "ranges": [
+        {
+          "startOffset": 1234,
+          "endOffset": 2351,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

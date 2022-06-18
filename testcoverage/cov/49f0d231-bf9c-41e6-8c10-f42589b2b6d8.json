@@ -1,0 +1,17 @@
+{
+  "scriptId": "254",
+  "url": "https://jspm.dev/npm:get-intrinsic@1!cjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 149,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

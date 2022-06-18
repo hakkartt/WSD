@@ -1,0 +1,66 @@
+{
+  "scriptId": "230",
+  "url": "https://jspm.dev/npm:superagent@6.1.0/lib/is-object!cjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 736,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_typeof",
+      "ranges": [
+        {
+          "startOffset": 19,
+          "endOffset": 437,
+          "count": 1
+        },
+        {
+          "startOffset": 223,
+          "endOffset": 411,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_typeof",
+      "ranges": [
+        {
+          "startOffset": 164,
+          "endOffset": 218,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_typeof",
+      "ranges": [
+        {
+          "startOffset": 245,
+          "endOffset": 406,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isObject",
+      "ranges": [
+        {
+          "startOffset": 543,
+          "endOffset": 621,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

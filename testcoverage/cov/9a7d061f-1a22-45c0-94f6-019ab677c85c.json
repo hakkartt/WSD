@@ -1,0 +1,102 @@
+{
+  "scriptId": "233",
+  "url": "https://jspm.dev/npm:superagent@6.1.0/lib/response-base!cjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 3060,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ResponseBase",
+      "ranges": [
+        {
+          "startOffset": 234,
+          "endOffset": 294,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mixin",
+      "ranges": [
+        {
+          "startOffset": 402,
+          "endOffset": 603,
+          "count": 1
+        },
+        {
+          "startOffset": 466,
+          "endOffset": 586,
+          "count": 3
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ResponseBase.get",
+      "ranges": [
+        {
+          "startOffset": 745,
+          "endOffset": 808,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ResponseBase._setHeaderProperties",
+      "ranges": [
+        {
+          "startOffset": 1109,
+          "endOffset": 1577,
+          "count": 2
+        },
+        {
+          "startOffset": 1226,
+          "endOffset": 1231,
+          "count": 1
+        },
+        {
+          "startOffset": 1334,
+          "endOffset": 1423,
+          "count": 1
+        },
+        {
+          "startOffset": 1483,
+          "endOffset": 1540,
+          "count": 0
+        },
+        {
+          "startOffset": 1545,
+          "endOffset": 1575,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ResponseBase._setStatusProperties",
+      "ranges": [
+        {
+          "startOffset": 2232,
+          "endOffset": 2952,
+          "count": 2
+        },
+        {
+          "startOffset": 2586,
+          "endOffset": 2602,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

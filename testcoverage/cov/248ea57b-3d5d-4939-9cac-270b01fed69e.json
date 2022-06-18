@@ -1,0 +1,28 @@
+{
+  "scriptId": "114",
+  "url": "file:///home/arttu/Documents/WSD/testcoverage/routes/controllers/helloController.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 160,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hello",
+      "ranges": [
+        {
+          "startOffset": 74,
+          "endOffset": 139,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "scriptId": "234",
+  "url": "https://jspm.dev/npm:superagent@6.1.0/lib/agent-base!cjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 2105,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_toConsumableArray",
+      "ranges": [
+        {
+          "startOffset": 19,
+          "endOffset": 174,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_nonIterableSpread",
+      "ranges": [
+        {
+          "startOffset": 176,
+          "endOffset": 368,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_unsupportedIterableToArray",
+      "ranges": [
+        {
+          "startOffset": 370,
+          "endOffset": 798,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_iterableToArray",
+      "ranges": [
+        {
+          "startOffset": 800,
+          "endOffset": 932,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_arrayWithoutHoles",
+      "ranges": [
+        {
+          "startOffset": 934,
+          "endOffset": 1027,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_arrayLikeToArray",
+      "ranges": [
+        {
+          "startOffset": 1029,
+          "endOffset": 1226,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Agent",
+      "ranges": [
+        {
+          "startOffset": 1228,
+          "endOffset": 1271,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1495,
+          "endOffset": 1830,
+          "count": 22
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Agent.<computed>",
+      "ranges": [
+        {
+          "startOffset": 1589,
+          "endOffset": 1827,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Agent._setDefaults",
+      "ranges": [
+        {
+          "startOffset": 1865,
+          "endOffset": 1989,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

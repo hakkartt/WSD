@@ -1,0 +1,88 @@
+{
+  "scriptId": "87",
+  "url": "https://deno.land/x/superoak@4.4.0/src/superoak.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 7025,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "random",
+      "ranges": [
+        {
+          "startOffset": 61,
+          "endOffset": 148,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isOakApplication",
+      "ranges": [
+        {
+          "startOffset": 149,
+          "endOffset": 319,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "superoak",
+      "ranges": [
+        {
+          "startOffset": 327,
+          "endOffset": 1426,
+          "count": 2
+        },
+        {
+          "startOffset": 1389,
+          "endOffset": 1425,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 607,
+          "endOffset": 1381,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 665,
+          "endOffset": 1278,
+          "count": 3
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "serverSham.close",
+      "ranges": [
+        {
+          "startOffset": 802,
+          "endOffset": 981,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

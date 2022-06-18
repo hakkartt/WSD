@@ -1,0 +1,50 @@
+{
+  "scriptId": "185",
+  "url": "https://deno.land/x/eta@v1.12.3/err.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 4341,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "setPrototypeOf",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 169,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "EtaErr",
+      "ranges": [
+        {
+          "startOffset": 185,
+          "endOffset": 308,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ParseErr",
+      "ranges": [
+        {
+          "startOffset": 425,
+          "endOffset": 866,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "scriptId": "179",
+  "url": "https://deno.land/std@0.105.0/crypto/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 22703,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 125,
+          "endOffset": 1035,
+          "count": 1
+        },
+        {
+          "startOffset": 881,
+          "endOffset": 887,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "bufferSourceBytes",
+      "ranges": [
+        {
+          "startOffset": 1083,
+          "endOffset": 1409,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1430,
+          "endOffset": 1438,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "digest",
+      "ranges": [
+        {
+          "startOffset": 1511,
+          "endOffset": 3172,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "digestSync",
+      "ranges": [
+        {
+          "startOffset": 3182,
+          "endOffset": 4094,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "normalizeAlgorithm",
+      "ranges": [
+        {
+          "startOffset": 4231,
+          "endOffset": 4379,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "scriptId": "91",
+  "url": "file:///home/arttu/Documents/WSD/testcoverage/middlewares/errorMiddleware.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 149,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "errorMiddleware",
+      "ranges": [
+        {
+          "startOffset": 24,
+          "endOffset": 118,
+          "count": 2
+        },
+        {
+          "startOffset": 81,
+          "endOffset": 116,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

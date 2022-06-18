@@ -1,0 +1,105 @@
+{
+  "scriptId": "211",
+  "url": "https://deno.land/std@0.105.0/async/tee.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 7470,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "noop",
+      "ranges": [
+        {
+          "startOffset": 13,
+          "endOffset": 22,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 55,
+          "endOffset": 130,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AsyncIterableClone",
+      "ranges": [
+        {
+          "startOffset": 136,
+          "endOffset": 368,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "reset",
+      "ranges": [
+        {
+          "startOffset": 373,
+          "endOffset": 599,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "next",
+      "ranges": [
+        {
+          "startOffset": 604,
+          "endOffset": 737,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "push",
+      "ranges": [
+        {
+          "startOffset": 742,
+          "endOffset": 828,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 833,
+          "endOffset": 886,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "tee",
+      "ranges": [
+        {
+          "startOffset": 896,
+          "endOffset": 1391,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

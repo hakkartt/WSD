@@ -1,0 +1,28 @@
+{
+  "scriptId": "220",
+  "url": "https://deno.land/x/opine@1.6.0/src/utils/mergeDescriptors.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 5673,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mergeDescriptors",
+      "ranges": [
+        {
+          "startOffset": 1424,
+          "endOffset": 1806,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

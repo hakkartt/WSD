@@ -1,0 +1,152 @@
+{
+  "scriptId": "16",
+  "url": "deno:ext/web/03_abort_signal.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 870,
+          "endOffset": 1031,
+          "count": 8
+        },
+        {
+          "startOffset": 926,
+          "endOffset": 973,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1037,
+          "endOffset": 1410,
+          "count": 2
+        },
+        {
+          "startOffset": 1080,
+          "endOffset": 1105,
+          "count": 0
+        },
+        {
+          "startOffset": 1171,
+          "endOffset": 1298,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1416,
+          "endOffset": 1518,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AbortSignal",
+      "ranges": [
+        {
+          "startOffset": 1524,
+          "endOffset": 1774,
+          "count": 8
+        },
+        {
+          "startOffset": 1590,
+          "endOffset": 1652,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get aborted",
+      "ranges": [
+        {
+          "startOffset": 1780,
+          "endOffset": 1838,
+          "count": 6
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 1971,
+          "endOffset": 2019,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get signal",
+      "ranges": [
+        {
+          "startOffset": 2026,
+          "endOffset": 2073,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "abort",
+      "ranges": [
+        {
+          "startOffset": 2079,
+          "endOffset": 2129,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "newSignal",
+      "ranges": [
+        {
+          "startOffset": 2296,
+          "endOffset": 2373,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "follow",
+      "ranges": [
+        {
+          "startOffset": 2377,
+          "endOffset": 2581,
+          "count": 2
+        },
+        {
+          "startOffset": 2456,
+          "endOffset": 2501,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 2533,
+          "endOffset": 2569,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

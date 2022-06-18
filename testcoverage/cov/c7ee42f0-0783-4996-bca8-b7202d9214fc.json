@@ -1,0 +1,406 @@
+{
+  "scriptId": "205",
+  "url": "https://deno.land/x/superdeno@4.4.0/src/xhrSham.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 9952,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "setupSham",
+      "ranges": [
+        {
+          "startOffset": 124,
+          "endOffset": 260,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "exposeSham",
+      "ranges": [
+        {
+          "startOffset": 313,
+          "endOffset": 378,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "XMLHttpRequestSham",
+      "ranges": [
+        {
+          "startOffset": 643,
+          "endOffset": 1105,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "XMLHttpRequestSham.onreadystatechange",
+      "ranges": [
+        {
+          "startOffset": 776,
+          "endOffset": 784,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "open",
+      "ranges": [
+        {
+          "startOffset": 1109,
+          "endOffset": 1465,
+          "count": 2
+        },
+        {
+          "startOffset": 1181,
+          "endOffset": 1229,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "send",
+      "ranges": [
+        {
+          "startOffset": 1469,
+          "endOffset": 1983,
+          "count": 2
+        },
+        {
+          "startOffset": 1672,
+          "endOffset": 1979,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1598,
+          "endOffset": 1663,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "abort",
+      "ranges": [
+        {
+          "startOffset": 1987,
+          "endOffset": 2054,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "setRequestHeader",
+      "ranges": [
+        {
+          "startOffset": 2058,
+          "endOffset": 2173,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getAllResponseHeaders",
+      "ranges": [
+        {
+          "startOffset": 2177,
+          "endOffset": 2203,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getResponseHeader",
+      "ranges": [
+        {
+          "startOffset": 2207,
+          "endOffset": 2229,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "xhrReceive",
+      "ranges": [
+        {
+          "startOffset": 2233,
+          "endOffset": 2956,
+          "count": 2
+        },
+        {
+          "startOffset": 2358,
+          "endOffset": 2362,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getAllResponseHeaders",
+      "ranges": [
+        {
+          "startOffset": 2675,
+          "endOffset": 2730,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getResponseHeader",
+      "ranges": [
+        {
+          "startOffset": 2762,
+          "endOffset": 2910,
+          "count": 2
+        },
+        {
+          "startOffset": 2853,
+          "endOffset": 2909,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getOrigin",
+      "ranges": [
+        {
+          "startOffset": 2960,
+          "endOffset": 3098,
+          "count": 2
+        },
+        {
+          "startOffset": 3052,
+          "endOffset": 3072,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseHeaders",
+      "ranges": [
+        {
+          "startOffset": 3102,
+          "endOffset": 4251,
+          "count": 4
+        },
+        {
+          "startOffset": 3208,
+          "endOffset": 3218,
+          "count": 0
+        },
+        {
+          "startOffset": 3257,
+          "endOffset": 3303,
+          "count": 2
+        },
+        {
+          "startOffset": 3376,
+          "endOffset": 3794,
+          "count": 2
+        },
+        {
+          "startOffset": 3483,
+          "endOffset": 3728,
+          "count": 5
+        },
+        {
+          "startOffset": 3641,
+          "endOffset": 3686,
+          "count": 0
+        },
+        {
+          "startOffset": 3896,
+          "endOffset": 4160,
+          "count": 6
+        },
+        {
+          "startOffset": 4022,
+          "endOffset": 4119,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resolveUrl",
+      "ranges": [
+        {
+          "startOffset": 4255,
+          "endOffset": 4292,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "xhrSend",
+      "ranges": [
+        {
+          "startOffset": 4296,
+          "endOffset": 9949,
+          "count": 2
+        },
+        {
+          "startOffset": 6576,
+          "endOffset": 6648,
+          "count": 1
+        },
+        {
+          "startOffset": 6755,
+          "endOffset": 6936,
+          "count": 0
+        },
+        {
+          "startOffset": 7017,
+          "endOffset": 7060,
+          "count": 1
+        },
+        {
+          "startOffset": 7071,
+          "endOffset": 7108,
+          "count": 0
+        },
+        {
+          "startOffset": 8735,
+          "endOffset": 8741,
+          "count": 0
+        },
+        {
+          "startOffset": 8893,
+          "endOffset": 8935,
+          "count": 1
+        },
+        {
+          "startOffset": 9078,
+          "endOffset": 9169,
+          "count": 0
+        },
+        {
+          "startOffset": 9178,
+          "endOffset": 9430,
+          "count": 0
+        },
+        {
+          "startOffset": 9722,
+          "endOffset": 9726,
+          "count": 1
+        },
+        {
+          "startOffset": 9727,
+          "endOffset": 9735,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "xhr.getAllResponseHeaders",
+      "ranges": [
+        {
+          "startOffset": 4412,
+          "endOffset": 4789,
+          "count": 2
+        },
+        {
+          "startOffset": 4765,
+          "endOffset": 4788,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 4537,
+          "endOffset": 4728,
+          "count": 5
+        },
+        {
+          "startOffset": 4644,
+          "endOffset": 4682,
+          "count": 3
+        },
+        {
+          "startOffset": 4695,
+          "endOffset": 4717,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "xhr.setRequestHeader",
+      "ranges": [
+        {
+          "startOffset": 4819,
+          "endOffset": 4928,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "xhr.onreadystatechange",
+      "ranges": [
+        {
+          "startOffset": 4960,
+          "endOffset": 5417,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "xhr.setAbortedResponse",
+      "ranges": [
+        {
+          "startOffset": 5449,
+          "endOffset": 5881,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "xhr.setErrorResponse",
+      "ranges": [
+        {
+          "startOffset": 5911,
+          "endOffset": 6422,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

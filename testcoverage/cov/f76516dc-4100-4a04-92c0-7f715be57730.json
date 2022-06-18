@@ -1,0 +1,303 @@
+{
+  "scriptId": "110",
+  "url": "https://deno.land/x/oak@v9.0.1/server_sent_event.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 40387,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "CloseEvent",
+      "ranges": [
+        {
+          "startOffset": 209,
+          "endOffset": 274,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 326,
+          "endOffset": 351,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ServerSentEvent",
+      "ranges": [
+        {
+          "startOffset": 357,
+          "endOffset": 872,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get data",
+      "ranges": [
+        {
+          "startOffset": 877,
+          "endOffset": 922,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get id",
+      "ranges": [
+        {
+          "startOffset": 927,
+          "endOffset": 968,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toString",
+      "ranges": [
+        {
+          "startOffset": 973,
+          "endOffset": 1201,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 1509,
+          "endOffset": 1573,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#error",
+      "ranges": [
+        {
+          "startOffset": 1579,
+          "endOffset": 1860,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "#push",
+      "ranges": [
+        {
+          "startOffset": 1865,
+          "endOffset": 2139,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get closed",
+      "ranges": [
+        {
+          "startOffset": 2144,
+          "endOffset": 2193,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SSEStreamTarget",
+      "ranges": [
+        {
+          "startOffset": 2198,
+          "endOffset": 3757,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "close",
+      "ranges": [
+        {
+          "startOffset": 3762,
+          "endOffset": 3878,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "dispatchComment",
+      "ranges": [
+        {
+          "startOffset": 3883,
+          "endOffset": 4001,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "dispatchMessage",
+      "ranges": [
+        {
+          "startOffset": 4006,
+          "endOffset": 4139,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "dispatchEvent",
+      "ranges": [
+        {
+          "startOffset": 4144,
+          "endOffset": 4365,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 4370,
+          "endOffset": 4531,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 4589,
+          "endOffset": 4708,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#send",
+      "ranges": [
+        {
+          "startOffset": 4714,
+          "endOffset": 5331,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "#setup",
+      "ranges": [
+        {
+          "startOffset": 5336,
+          "endOffset": 6156,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get closed",
+      "ranges": [
+        {
+          "startOffset": 6161,
+          "endOffset": 6210,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SSEStdLibTarget",
+      "ranges": [
+        {
+          "startOffset": 6215,
+          "endOffset": 7508,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "close",
+      "ranges": [
+        {
+          "startOffset": 7513,
+          "endOffset": 7704,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "dispatchComment",
+      "ranges": [
+        {
+          "startOffset": 7709,
+          "endOffset": 7852,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "dispatchMessage",
+      "ranges": [
+        {
+          "startOffset": 7857,
+          "endOffset": 7990,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "dispatchEvent",
+      "ranges": [
+        {
+          "startOffset": 7995,
+          "endOffset": 8241,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 8246,
+          "endOffset": 8378,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

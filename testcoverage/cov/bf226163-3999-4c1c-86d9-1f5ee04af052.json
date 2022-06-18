@@ -1,0 +1,28 @@
+{
+  "scriptId": "181",
+  "url": "https://deno.land/std@0.105.0/async/deferred.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 3514,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "deferred",
+      "ranges": [
+        {
+          "startOffset": 7,
+          "endOffset": 539,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

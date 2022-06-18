@@ -1,0 +1,72 @@
+{
+  "scriptId": "128",
+  "url": "https://deno.land/x/oak@v9.0.1/negotiation/encoding.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 13974,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseEncoding",
+      "ranges": [
+        {
+          "startOffset": 1481,
+          "endOffset": 1964,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "specify",
+      "ranges": [
+        {
+          "startOffset": 1965,
+          "endOffset": 2311,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseAcceptEncoding",
+      "ranges": [
+        {
+          "startOffset": 2312,
+          "endOffset": 2996,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getEncodingPriority",
+      "ranges": [
+        {
+          "startOffset": 2997,
+          "endOffset": 3391,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "preferredEncodings",
+      "ranges": [
+        {
+          "startOffset": 3399,
+          "endOffset": 3895,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

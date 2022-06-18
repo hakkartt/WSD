@@ -1,0 +1,17 @@
+{
+  "scriptId": "67",
+  "url": "deno:runtime/js/40_http.js",
+  "functions": [
+    {
+      "functionName": "serveHttp",
+      "ranges": [
+        {
+          "startOffset": 196,
+          "endOffset": 312,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

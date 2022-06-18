@@ -1,0 +1,72 @@
+{
+  "scriptId": "184",
+  "url": "https://deno.land/x/eta@v1.12.3/utils.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 8650,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hasOwnProp",
+      "ranges": [
+        {
+          "startOffset": 61,
+          "endOffset": 155,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "copyProps",
+      "ranges": [
+        {
+          "startOffset": 163,
+          "endOffset": 347,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "trimWS",
+      "ranges": [
+        {
+          "startOffset": 348,
+          "endOffset": 1338,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "replaceChar",
+      "ranges": [
+        {
+          "startOffset": 1448,
+          "endOffset": 1497,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "XMLEscape",
+      "ranges": [
+        {
+          "startOffset": 1498,
+          "endOffset": 1693,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

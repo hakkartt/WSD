@@ -1,0 +1,17 @@
+{
+  "scriptId": "216",
+  "url": "https://deno.land/x/eta@v1.12.3/file-methods.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 899,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

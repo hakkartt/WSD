@@ -1,0 +1,83 @@
+{
+  "scriptId": "148",
+  "url": "https://deno.land/x/eta@v1.12.3/file-handlers.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 21062,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "loadFile",
+      "ranges": [
+        {
+          "startOffset": 254,
+          "endOffset": 700,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handleCache",
+      "ranges": [
+        {
+          "startOffset": 701,
+          "endOffset": 1003,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "tryHandleCache",
+      "ranges": [
+        {
+          "startOffset": 1004,
+          "endOffset": 1811,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "includeFile",
+      "ranges": [
+        {
+          "startOffset": 1812,
+          "endOffset": 1994,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "renderFile",
+      "ranges": [
+        {
+          "startOffset": 1995,
+          "endOffset": 2926,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "renderFileAsync",
+      "ranges": [
+        {
+          "startOffset": 2927,
+          "endOffset": 3150,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

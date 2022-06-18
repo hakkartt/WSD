@@ -1,0 +1,72 @@
+{
+  "scriptId": "129",
+  "url": "https://deno.land/x/oak@v9.0.1/negotiation/language.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 13781,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseLanguage",
+      "ranges": [
+        {
+          "startOffset": 1500,
+          "endOffset": 2073,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseAcceptLanguage",
+      "ranges": [
+        {
+          "startOffset": 2074,
+          "endOffset": 2379,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "specify",
+      "ranges": [
+        {
+          "startOffset": 2380,
+          "endOffset": 2883,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getLanguagePriority",
+      "ranges": [
+        {
+          "startOffset": 2884,
+          "endOffset": 3303,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "preferredLanguages",
+      "ranges": [
+        {
+          "startOffset": 3311,
+          "endOffset": 3818,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

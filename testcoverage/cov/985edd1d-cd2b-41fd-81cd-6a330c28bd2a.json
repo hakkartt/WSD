@@ -1,0 +1,17 @@
+{
+  "scriptId": "221",
+  "url": "https://jspm.dev/superagent@6.1.0",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 454,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

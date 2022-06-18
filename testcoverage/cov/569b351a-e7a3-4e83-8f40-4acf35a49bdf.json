@@ -1,0 +1,186 @@
+{
+  "scriptId": "247",
+  "url": "https://jspm.dev/npm:qs@6.10.1/_/9b9acba6.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 7052,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RFC1738",
+      "ranges": [
+        {
+          "startOffset": 219,
+          "endOffset": 299,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RFC3986",
+      "ranges": [
+        {
+          "startOffset": 314,
+          "endOffset": 366,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 585,
+          "endOffset": 750,
+          "count": 1
+        },
+        {
+          "startOffset": 650,
+          "endOffset": 731,
+          "count": 256
+        },
+        {
+          "startOffset": 682,
+          "endOffset": 687,
+          "count": 16
+        },
+        {
+          "startOffset": 688,
+          "endOffset": 692,
+          "count": 240
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compactQueue",
+      "ranges": [
+        {
+          "startOffset": 774,
+          "endOffset": 1142,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "arrayToObject",
+      "ranges": [
+        {
+          "startOffset": 1165,
+          "endOffset": 1420,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "merge",
+      "ranges": [
+        {
+          "startOffset": 1435,
+          "endOffset": 2834,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "assignSingleSource",
+      "ranges": [
+        {
+          "startOffset": 2850,
+          "endOffset": 3013,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decode",
+      "ranges": [
+        {
+          "startOffset": 3029,
+          "endOffset": 3381,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "encode",
+      "ranges": [
+        {
+          "startOffset": 3397,
+          "endOffset": 5003,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "compact",
+      "ranges": [
+        {
+          "startOffset": 5020,
+          "endOffset": 5604,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isRegExp",
+      "ranges": [
+        {
+          "startOffset": 5622,
+          "endOffset": 5716,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isBuffer",
+      "ranges": [
+        {
+          "startOffset": 5734,
+          "endOffset": 5915,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "combine",
+      "ranges": [
+        {
+          "startOffset": 5932,
+          "endOffset": 5984,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "maybeMap",
+      "ranges": [
+        {
+          "startOffset": 6002,
+          "endOffset": 6202,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "scriptId": "257",
+  "url": "https://jspm.dev/npm:side-channel@1.0.4!cjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 3959,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "listGetNode",
+      "ranges": [
+        {
+          "startOffset": 1075,
+          "endOffset": 1397,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "listGet",
+      "ranges": [
+        {
+          "startOffset": 1414,
+          "endOffset": 1510,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "listSet",
+      "ranges": [
+        {
+          "startOffset": 1527,
+          "endOffset": 1848,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "listHas",
+      "ranges": [
+        {
+          "startOffset": 1865,
+          "endOffset": 1930,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getSideChannel",
+      "ranges": [
+        {
+          "startOffset": 1943,
+          "endOffset": 3852,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "scriptId": "60",
+  "url": "deno:runtime/js/30_fs.js",
+  "functions": [
+    {
+      "functionName": "cwd",
+      "ranges": [
+        {
+          "startOffset": 1243,
+          "endOffset": 1297,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

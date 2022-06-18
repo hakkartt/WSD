@@ -1,0 +1,17 @@
+{
+  "scriptId": "228",
+  "url": "https://jspm.dev/npm:fast-safe-stringify@2!cjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 62,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

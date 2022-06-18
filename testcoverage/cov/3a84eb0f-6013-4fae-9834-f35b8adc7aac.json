@@ -1,0 +1,17 @@
+{
+  "scriptId": "90",
+  "url": "file:///home/arttu/Documents/WSD/testcoverage/routes/routes.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 337,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

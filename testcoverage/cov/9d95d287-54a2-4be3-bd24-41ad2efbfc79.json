@@ -1,0 +1,48 @@
+{
+  "scriptId": "266",
+  "url": "https://jspm.dev/npm:has-symbols@1.0.2!cjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 597,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hasNativeSymbols",
+      "ranges": [
+        {
+          "startOffset": 172,
+          "endOffset": 491,
+          "count": 1
+        },
+        {
+          "startOffset": 242,
+          "endOffset": 265,
+          "count": 0
+        },
+        {
+          "startOffset": 303,
+          "endOffset": 326,
+          "count": 0
+        },
+        {
+          "startOffset": 373,
+          "endOffset": 396,
+          "count": 0
+        },
+        {
+          "startOffset": 439,
+          "endOffset": 462,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "scriptId": "202",
+  "url": "https://deno.land/x/superdeno@4.4.0/src/close.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 3426,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "close",
+      "ranges": [
+        {
+          "startOffset": 21,
+          "endOffset": 722,
+          "count": 2
+        },
+        {
+          "startOffset": 166,
+          "endOffset": 293,
+          "count": 0
+        },
+        {
+          "startOffset": 319,
+          "endOffset": 412,
+          "count": 0
+        },
+        {
+          "startOffset": 428,
+          "endOffset": 529,
+          "count": 0
+        },
+        {
+          "startOffset": 577,
+          "endOffset": 631,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

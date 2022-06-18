@@ -1,0 +1,295 @@
+{
+  "scriptId": "112",
+  "url": "https://deno.land/x/oak@v9.0.1/util.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 39287,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "decodeComponent",
+      "ranges": [
+        {
+          "startOffset": 691,
+          "endOffset": 821,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "encodeUrl",
+      "ranges": [
+        {
+          "startOffset": 829,
+          "endOffset": 1013,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "bufferToHex",
+      "ranges": [
+        {
+          "startOffset": 1021,
+          "endOffset": 1174,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1123,
+          "endOffset": 1161,
+          "count": 20
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getRandomFilename",
+      "ranges": [
+        {
+          "startOffset": 1182,
+          "endOffset": 1429,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getBoundary",
+      "ranges": [
+        {
+          "startOffset": 1437,
+          "endOffset": 1611,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isAsyncIterable",
+      "ranges": [
+        {
+          "startOffset": 1619,
+          "endOffset": 1812,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isRouterContext",
+      "ranges": [
+        {
+          "startOffset": 1820,
+          "endOffset": 1885,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isReader",
+      "ranges": [
+        {
+          "startOffset": 1893,
+          "endOffset": 2040,
+          "count": 2
+        },
+        {
+          "startOffset": 1957,
+          "endOffset": 1974,
+          "count": 1
+        },
+        {
+          "startOffset": 1975,
+          "endOffset": 1993,
+          "count": 1
+        },
+        {
+          "startOffset": 1994,
+          "endOffset": 2037,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isCloser",
+      "ranges": [
+        {
+          "startOffset": 2041,
+          "endOffset": 2192,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isConn",
+      "ranges": [
+        {
+          "startOffset": 2200,
+          "endOffset": 2397,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isListenTlsOptions",
+      "ranges": [
+        {
+          "startOffset": 2405,
+          "endOffset": 2571,
+          "count": 2
+        },
+        {
+          "startOffset": 2520,
+          "endOffset": 2549,
+          "count": 0
+        },
+        {
+          "startOffset": 2550,
+          "endOffset": 2568,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readableStreamFromReader",
+      "ranges": [
+        {
+          "startOffset": 2579,
+          "endOffset": 3554,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isErrorStatus",
+      "ranges": [
+        {
+          "startOffset": 3562,
+          "endOffset": 4913,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isRedirectStatus",
+      "ranges": [
+        {
+          "startOffset": 4921,
+          "endOffset": 5198,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isHtml",
+      "ranges": [
+        {
+          "startOffset": 5206,
+          "endOffset": 5287,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "skipLWSPChar",
+      "ranges": [
+        {
+          "startOffset": 5295,
+          "endOffset": 5562,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stripEol",
+      "ranges": [
+        {
+          "startOffset": 5570,
+          "endOffset": 5854,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "resolvePath",
+      "ranges": [
+        {
+          "startOffset": 5915,
+          "endOffset": 6524,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Uint8ArrayTransformStream",
+      "ranges": [
+        {
+          "startOffset": 6594,
+          "endOffset": 8304,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "encodeBase64Safe",
+      "ranges": [
+        {
+          "startOffset": 8416,
+          "endOffset": 8527,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "importKey",
+      "ranges": [
+        {
+          "startOffset": 8535,
+          "endOffset": 8895,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sign",
+      "ranges": [
+        {
+          "startOffset": 8903,
+          "endOffset": 9140,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

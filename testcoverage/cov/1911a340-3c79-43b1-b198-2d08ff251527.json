@@ -1,0 +1,50 @@
+{
+  "scriptId": "111",
+  "url": "https://deno.land/x/oak@v9.0.1/testing.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 11860,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createMockApp",
+      "ranges": [
+        {
+          "startOffset": 93,
+          "endOffset": 337,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createMockContext",
+      "ranges": [
+        {
+          "startOffset": 417,
+          "endOffset": 2798,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createMockNext",
+      "ranges": [
+        {
+          "startOffset": 2806,
+          "endOffset": 2873,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

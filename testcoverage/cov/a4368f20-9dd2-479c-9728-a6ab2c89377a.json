@@ -1,0 +1,28 @@
+{
+  "scriptId": "194",
+  "url": "https://deno.land/std@0.101.0/async/delay.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 923,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "delay",
+      "ranges": [
+        {
+          "startOffset": 7,
+          "endOffset": 108,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

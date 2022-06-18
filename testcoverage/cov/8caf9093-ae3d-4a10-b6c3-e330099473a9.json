@@ -1,0 +1,17 @@
+{
+  "scriptId": "84",
+  "url": "file:///home/arttu/Documents/WSD/testcoverage/app.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 563,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

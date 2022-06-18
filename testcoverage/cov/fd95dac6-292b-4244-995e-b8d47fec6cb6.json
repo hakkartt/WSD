@@ -1,0 +1,39 @@
+{
+  "scriptId": "151",
+  "url": "https://deno.land/x/eta@v1.12.3/parse.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 20252,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "escapeRegExp",
+      "ranges": [
+        {
+          "startOffset": 287,
+          "endOffset": 380,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parse",
+      "ranges": [
+        {
+          "startOffset": 396,
+          "endOffset": 5361,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

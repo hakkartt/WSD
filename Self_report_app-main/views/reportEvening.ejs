@@ -1,0 +1,57 @@
+<%- include('./partials/header.ejs') %>
+<h1>Morning report</h1>
+<form method="POST" action="/behavior/reporting/evening">
+    <label for="dateField">Date</label>
+    <input type="date" id="start" name="dateInput" id="dateField"
+        value="<%= today %>"
+        min="2010-01-01" 
+        max="<%= today %>">
+
+
+    <label for="sportField">Time spent on sports and exercise</label>
+    <input required type="number" name="sport" min=0 max=24 step=0.1 is="sportField" />
+
+    <label for="studyField">Time spent on studying</label>
+    <input required type="number" name="study" min=0 max=24 step=0.1 is="studyField" />
+  
+    <label for="eatingField">Regularity and quality of eating</label>
+    <input type="range" name="eating" min=1 max=5 step=1 id="eatingField" list="tickmarksQuality">
+    <datalist id="tickmarksQuality">
+        <option value="1" label="1"></option>
+        <option value="2"></option>
+        <option value="3"></option>
+        <option value="4"></option>
+        <option value="5" label="5"></option>
+    </datalist>
+
+    <div style="margin: 10px 0;"></div>
+
+    <label for="moodField">General mood</label>
+    <input type="range" name="mood" min=1 max=5 step=1 id="moodField" list="tickmarksMood">
+    <datalist  id="tickmarksMood">
+        <option value="1" label="1"></option>
+        <option value="2"></option>
+        <option value="3"></option>
+        <option value="4"></option>
+        <option value="5" label="5"></option>
+    </datalist>
+
+    <div style="margin: 10px 0;"></div>
+
+    <input type="submit" value="Submit!" />
+</form>
+
+
+
+<a href="/behavior/reporting">
+    <h4>
+    Back to home
+    </h4>
+</a>
+
+
+
+ 
+<%- include('./partials/footer.ejs') %>
+
+

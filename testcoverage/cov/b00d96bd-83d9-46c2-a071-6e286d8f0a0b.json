@@ -1,0 +1,66 @@
+{
+  "scriptId": "121",
+  "url": "https://deno.land/x/oak@v9.0.1/structured_clone.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 14060,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "cloneArrayBuffer",
+      "ranges": [
+        {
+          "startOffset": 39,
+          "endOffset": 194,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cloneValue",
+      "ranges": [
+        {
+          "startOffset": 195,
+          "endOffset": 2652,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sc",
+      "ranges": [
+        {
+          "startOffset": 2730,
+          "endOffset": 2914,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cloneState",
+      "ranges": [
+        {
+          "startOffset": 2922,
+          "endOffset": 3185,
+          "count": 2
+        },
+        {
+          "startOffset": 3027,
+          "endOffset": 3165,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "scriptId": "206",
+  "url": "https://deno.land/x/oak@v9.0.1/mediaTyper.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 6452,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 477,
+          "endOffset": 506,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MediaType",
+      "ranges": [
+        {
+          "startOffset": 512,
+          "endOffset": 642,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "format",
+      "ranges": [
+        {
+          "startOffset": 652,
+          "endOffset": 1125,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parse",
+      "ranges": [
+        {
+          "startOffset": 1133,
+          "endOffset": 1541,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

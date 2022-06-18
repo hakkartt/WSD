@@ -1,0 +1,105 @@
+{
+  "scriptId": "120",
+  "url": "https://deno.land/x/oak@v9.0.1/keyStack.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 7285,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 134,
+          "endOffset": 168,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#toCryptoKey",
+      "ranges": [
+        {
+          "startOffset": 174,
+          "endOffset": 360,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get length",
+      "ranges": [
+        {
+          "startOffset": 365,
+          "endOffset": 419,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "KeyStack",
+      "ranges": [
+        {
+          "startOffset": 424,
+          "endOffset": 587,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sign",
+      "ranges": [
+        {
+          "startOffset": 592,
+          "endOffset": 732,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "verify",
+      "ranges": [
+        {
+          "startOffset": 737,
+          "endOffset": 827,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "indexOf",
+      "ranges": [
+        {
+          "startOffset": 832,
+          "endOffset": 1148,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1153,
+          "endOffset": 1304,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

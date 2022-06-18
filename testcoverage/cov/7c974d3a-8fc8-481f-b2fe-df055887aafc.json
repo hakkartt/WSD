@@ -1,0 +1,55 @@
+{
+  "scriptId": "20",
+  "url": "deno:ext/web/08_text_encoding.js",
+  "functions": [
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 824,
+          "endOffset": 966,
+          "count": 7
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "TextDecoder",
+      "ranges": [
+        {
+          "startOffset": 1061,
+          "endOffset": 1624,
+          "count": 7
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "decode",
+      "ranges": [
+        {
+          "startOffset": 2122,
+          "endOffset": 3422,
+          "count": 4
+        },
+        {
+          "startOffset": 2940,
+          "endOffset": 3142,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "TextEncoder",
+      "ranges": [
+        {
+          "startOffset": 3497,
+          "endOffset": 3559,
+          "count": 9
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "scriptId": "140",
+  "url": "https://deno.land/std@0.105.0/io/util.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 22911,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readAll",
+      "ranges": [
+        {
+          "startOffset": 185,
+          "endOffset": 295,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readAllSync",
+      "ranges": [
+        {
+          "startOffset": 303,
+          "endOffset": 409,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readRange",
+      "ranges": [
+        {
+          "startOffset": 417,
+          "endOffset": 1151,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readRangeSync",
+      "ranges": [
+        {
+          "startOffset": 1159,
+          "endOffset": 1887,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "writeAll",
+      "ranges": [
+        {
+          "startOffset": 1895,
+          "endOffset": 2053,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "writeAllSync",
+      "ranges": [
+        {
+          "startOffset": 2061,
+          "endOffset": 2215,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "iter",
+      "ranges": [
+        {
+          "startOffset": 2223,
+          "endOffset": 2521,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "iterSync",
+      "ranges": [
+        {
+          "startOffset": 2529,
+          "endOffset": 2823,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "copy",
+      "ranges": [
+        {
+          "startOffset": 2831,
+          "endOffset": 3384,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "scriptId": "259",
+  "url": "https://jspm.dev/npm:function-bind@1!cjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 56,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

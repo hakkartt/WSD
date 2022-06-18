@@ -1,0 +1,138 @@
+{
+  "scriptId": "190",
+  "url": "https://deno.land/std@0.101.0/bytes/bytes_list.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 15187,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 29,
+          "endOffset": 53,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BytesList",
+      "ranges": [
+        {
+          "startOffset": 59,
+          "endOffset": 76,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "size",
+      "ranges": [
+        {
+          "startOffset": 81,
+          "endOffset": 120,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "add",
+      "ranges": [
+        {
+          "startOffset": 125,
+          "endOffset": 474,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "shift",
+      "ranges": [
+        {
+          "startOffset": 479,
+          "endOffset": 1072,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getChunkIndex",
+      "ranges": [
+        {
+          "startOffset": 1077,
+          "endOffset": 1685,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get",
+      "ranges": [
+        {
+          "startOffset": 1690,
+          "endOffset": 1941,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "iterator",
+      "ranges": [
+        {
+          "startOffset": 1946,
+          "endOffset": 2434,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "slice",
+      "ranges": [
+        {
+          "startOffset": 2439,
+          "endOffset": 3222,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "concat",
+      "ranges": [
+        {
+          "startOffset": 3227,
+          "endOffset": 3494,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "checkRange",
+      "ranges": [
+        {
+          "startOffset": 3497,
+          "endOffset": 3660,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "scriptId": "132",
+  "url": "https://deno.land/std@0.105.0/bytes/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 16104,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "indexOf",
+      "ranges": [
+        {
+          "startOffset": 7,
+          "endOffset": 688,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lastIndexOf",
+      "ranges": [
+        {
+          "startOffset": 696,
+          "endOffset": 1374,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "equals",
+      "ranges": [
+        {
+          "startOffset": 1382,
+          "endOffset": 1577,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "startsWith",
+      "ranges": [
+        {
+          "startOffset": 1585,
+          "endOffset": 1767,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "endsWith",
+      "ranges": [
+        {
+          "startOffset": 1775,
+          "endOffset": 1998,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "repeat",
+      "ranges": [
+        {
+          "startOffset": 2006,
+          "endOffset": 2643,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "concat",
+      "ranges": [
+        {
+          "startOffset": 2651,
+          "endOffset": 2930,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "includes",
+      "ranges": [
+        {
+          "startOffset": 2938,
+          "endOffset": 3046,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "copy",
+      "ranges": [
+        {
+          "startOffset": 3054,
+          "endOffset": 3348,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

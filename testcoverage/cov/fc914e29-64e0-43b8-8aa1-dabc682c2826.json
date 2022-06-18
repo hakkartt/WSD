@@ -1,0 +1,83 @@
+{
+  "scriptId": "124",
+  "url": "https://deno.land/x/oak@v9.0.1/content_disposition.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 14126,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fixupEncoding",
+      "ranges": [
+        {
+          "startOffset": 87,
+          "endOffset": 344,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "rfc2047decode",
+      "ranges": [
+        {
+          "startOffset": 553,
+          "endOffset": 1178,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "rfc2231getParam",
+      "ranges": [
+        {
+          "startOffset": 1179,
+          "endOffset": 1971,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "rfc5987decode",
+      "ranges": [
+        {
+          "startOffset": 1972,
+          "endOffset": 2276,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "textDecode",
+      "ranges": [
+        {
+          "startOffset": 2277,
+          "endOffset": 2720,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getFilename",
+      "ranges": [
+        {
+          "startOffset": 2728,
+          "endOffset": 3307,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

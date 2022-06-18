@@ -1,0 +1,333 @@
+{
+  "scriptId": "94",
+  "url": "https://deno.land/x/oak@v9.0.1/application.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 56896,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 520,
+          "endOffset": 527,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ApplicationErrorEvent",
+      "ranges": [
+        {
+          "startOffset": 533,
+          "endOffset": 652,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "logErrorListener",
+      "ranges": [
+        {
+          "startOffset": 655,
+          "endOffset": 1610,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 1667,
+          "endOffset": 1727,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ApplicationListenEvent",
+      "ranges": [
+        {
+          "startOffset": 1733,
+          "endOffset": 2039,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 2093,
+          "endOffset": 9260,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get keys",
+      "ranges": [
+        {
+          "startOffset": 2213,
+          "endOffset": 2258,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "set keys",
+      "ranges": [
+        {
+          "startOffset": 2263,
+          "endOffset": 2523,
+          "count": 1
+        },
+        {
+          "startOffset": 2366,
+          "endOffset": 2517,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Application",
+      "ranges": [
+        {
+          "startOffset": 2550,
+          "endOffset": 3053,
+          "count": 1
+        },
+        {
+          "startOffset": 2686,
+          "endOffset": 2701,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#getComposed",
+      "ranges": [
+        {
+          "startOffset": 3058,
+          "endOffset": 3238,
+          "count": 2
+        },
+        {
+          "startOffset": 3114,
+          "endOffset": 3191,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#getContextState",
+      "ranges": [
+        {
+          "startOffset": 3243,
+          "endOffset": 3584,
+          "count": 2
+        },
+        {
+          "startOffset": 3314,
+          "endOffset": 3362,
+          "count": 0
+        },
+        {
+          "startOffset": 3448,
+          "endOffset": 3488,
+          "count": 0
+        },
+        {
+          "startOffset": 3501,
+          "endOffset": 3568,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#handleError",
+      "ranges": [
+        {
+          "startOffset": 3589,
+          "endOffset": 4690,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "#handleRequest",
+      "ranges": [
+        {
+          "startOffset": 4695,
+          "endOffset": 6504,
+          "count": 2
+        },
+        {
+          "startOffset": 5105,
+          "endOffset": 5181,
+          "count": 0
+        },
+        {
+          "startOffset": 5231,
+          "endOffset": 5377,
+          "count": 0
+        },
+        {
+          "startOffset": 5621,
+          "endOffset": 5724,
+          "count": 0
+        },
+        {
+          "startOffset": 5743,
+          "endOffset": 6047,
+          "count": 0
+        },
+        {
+          "startOffset": 6151,
+          "endOffset": 6219,
+          "count": 0
+        },
+        {
+          "startOffset": 6398,
+          "endOffset": 6488,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 4892,
+          "endOffset": 4914,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "addEventListener",
+      "ranges": [
+        {
+          "startOffset": 6509,
+          "endOffset": 6615,
+          "count": 3
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fetchEventHandler",
+      "ranges": [
+        {
+          "startOffset": 6620,
+          "endOffset": 7723,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handle",
+      "ranges": [
+        {
+          "startOffset": 7738,
+          "endOffset": 9259,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "listen",
+      "ranges": [
+        {
+          "startOffset": 9266,
+          "endOffset": 11207,
+          "count": 2
+        },
+        {
+          "startOffset": 9328,
+          "endOffset": 9419,
+          "count": 0
+        },
+        {
+          "startOffset": 9461,
+          "endOffset": 9752,
+          "count": 0
+        },
+        {
+          "startOffset": 10392,
+          "endOffset": 10399,
+          "count": 0
+        },
+        {
+          "startOffset": 10492,
+          "endOffset": 10502,
+          "count": 0
+        },
+        {
+          "startOffset": 10975,
+          "endOffset": 11201,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 10066,
+          "endOffset": 10264,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "use",
+      "ranges": [
+        {
+          "startOffset": 11212,
+          "endOffset": 11351,
+          "count": 3
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 11356,
+          "endOffset": 11563,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

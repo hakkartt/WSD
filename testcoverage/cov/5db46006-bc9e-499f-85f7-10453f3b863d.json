@@ -1,0 +1,215 @@
+{
+  "scriptId": "143",
+  "url": "https://deno.land/std@0.105.0/ws/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 50618,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 542,
+          "endOffset": 844,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isWebSocketCloseEvent",
+      "ranges": [
+        {
+          "startOffset": 879,
+          "endOffset": 954,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isWebSocketPingEvent",
+      "ranges": [
+        {
+          "startOffset": 962,
+          "endOffset": 1076,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isWebSocketPongEvent",
+      "ranges": [
+        {
+          "startOffset": 1084,
+          "endOffset": 1198,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "unmask",
+      "ranges": [
+        {
+          "startOffset": 1206,
+          "endOffset": 1373,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "writeFrame",
+      "ranges": [
+        {
+          "startOffset": 1381,
+          "endOffset": 2458,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readFrame",
+      "ranges": [
+        {
+          "startOffset": 2466,
+          "endOffset": 3576,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 3603,
+          "endOffset": 7689,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get isClosed",
+      "ranges": [
+        {
+          "startOffset": 7695,
+          "endOffset": 7748,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "close",
+      "ranges": [
+        {
+          "startOffset": 7753,
+          "endOffset": 8541,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "closeForce",
+      "ranges": [
+        {
+          "startOffset": 8546,
+          "endOffset": 8601,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ensureSocketClosed",
+      "ranges": [
+        {
+          "startOffset": 8606,
+          "endOffset": 9045,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "acceptable",
+      "ranges": [
+        {
+          "startOffset": 9055,
+          "endOffset": 9395,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createSecAccept",
+      "ranges": [
+        {
+          "startOffset": 9457,
+          "endOffset": 9594,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "acceptWebSocket",
+      "ranges": [
+        {
+          "startOffset": 9602,
+          "endOffset": 10757,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createSecKey",
+      "ranges": [
+        {
+          "startOffset": 10843,
+          "endOffset": 11044,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "handshake",
+      "ranges": [
+        {
+          "startOffset": 11052,
+          "endOffset": 12781,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createWebSocket",
+      "ranges": [
+        {
+          "startOffset": 12789,
+          "endOffset": 12863,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

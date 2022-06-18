@@ -1,0 +1,28 @@
+{
+  "scriptId": "96",
+  "url": "https://deno.land/x/oak@v9.0.1/helpers.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 3512,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getQuery",
+      "ranges": [
+        {
+          "startOffset": 52,
+          "endOffset": 385,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

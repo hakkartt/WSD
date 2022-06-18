@@ -1,0 +1,61 @@
+{
+  "scriptId": "131",
+  "url": "https://deno.land/x/oak@v9.0.1/async_iterable_reader.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 5450,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 78,
+          "endOffset": 146,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "AsyncIterableReader",
+      "ranges": [
+        {
+          "startOffset": 152,
+          "endOffset": 312,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "#close",
+      "ranges": [
+        {
+          "startOffset": 317,
+          "endOffset": 497,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "read",
+      "ranges": [
+        {
+          "startOffset": 502,
+          "endOffset": 1357,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

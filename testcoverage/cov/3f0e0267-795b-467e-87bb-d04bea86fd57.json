@@ -1,0 +1,72 @@
+{
+  "scriptId": "127",
+  "url": "https://deno.land/x/oak@v9.0.1/negotiation/charset.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 12213,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "parseCharset",
+      "ranges": [
+        {
+          "startOffset": 1482,
+          "endOffset": 1965,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseAcceptCharset",
+      "ranges": [
+        {
+          "startOffset": 1966,
+          "endOffset": 2266,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "specify",
+      "ranges": [
+        {
+          "startOffset": 2267,
+          "endOffset": 2514,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getCharsetPriority",
+      "ranges": [
+        {
+          "startOffset": 2515,
+          "endOffset": 2931,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "preferredCharsets",
+      "ranges": [
+        {
+          "startOffset": 2939,
+          "endOffset": 3446,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

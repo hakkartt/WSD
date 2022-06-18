@@ -1,0 +1,65 @@
+{
+  "scriptId": "103",
+  "url": "https://deno.land/x/oak@v9.0.1/middleware.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 3401,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compose",
+      "ranges": [
+        {
+          "startOffset": 7,
+          "endOffset": 574,
+          "count": 3
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "composedMiddleware",
+      "ranges": [
+        {
+          "startOffset": 49,
+          "endOffset": 571,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "dispatch",
+      "ranges": [
+        {
+          "startOffset": 126,
+          "endOffset": 537,
+          "count": 10
+        },
+        {
+          "startOffset": 183,
+          "endOffset": 264,
+          "count": 0
+        },
+        {
+          "startOffset": 365,
+          "endOffset": 407,
+          "count": 0
+        },
+        {
+          "startOffset": 429,
+          "endOffset": 468,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

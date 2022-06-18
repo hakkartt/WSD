@@ -1,0 +1,28 @@
+{
+  "scriptId": "146",
+  "url": "https://deno.land/x/eta@v1.12.3/file-helpers.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 1510,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "includeFileHelper",
+      "ranges": [
+        {
+          "startOffset": 57,
+          "endOffset": 215,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

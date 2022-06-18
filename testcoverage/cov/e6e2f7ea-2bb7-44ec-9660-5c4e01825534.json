@@ -1,0 +1,39 @@
+{
+  "scriptId": "161",
+  "url": "https://deno.land/x/oak@v9.0.1/tssCompare.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 4078,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compareArrayBuffer",
+      "ranges": [
+        {
+          "startOffset": 81,
+          "endOffset": 430,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "compare",
+      "ranges": [
+        {
+          "startOffset": 438,
+          "endOffset": 715,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

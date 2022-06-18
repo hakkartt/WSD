@@ -1,0 +1,82 @@
+{
+  "scriptId": "203",
+  "url": "https://deno.land/x/superdeno@4.4.0/src/utils.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 3104,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isString",
+      "ranges": [
+        {
+          "startOffset": 24,
+          "endOffset": 60,
+          "count": 5
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isListener",
+      "ranges": [
+        {
+          "startOffset": 88,
+          "endOffset": 112,
+          "count": 3
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isServer",
+      "ranges": [
+        {
+          "startOffset": 138,
+          "endOffset": 180,
+          "count": 8
+        },
+        {
+          "startOffset": 154,
+          "endOffset": 161,
+          "count": 5
+        },
+        {
+          "startOffset": 162,
+          "endOffset": 180,
+          "count": 5
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isReader",
+      "ranges": [
+        {
+          "startOffset": 199,
+          "endOffset": 221,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isResponse",
+      "ranges": [
+        {
+          "startOffset": 249,
+          "endOffset": 696,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

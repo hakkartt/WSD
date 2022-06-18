@@ -1,0 +1,72 @@
+{
+  "scriptId": "100",
+  "url": "https://deno.land/x/oak@v9.0.1/http_server_std.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 4399,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 134,
+          "endOffset": 155,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "HttpServerStd",
+      "ranges": [
+        {
+          "startOffset": 161,
+          "endOffset": 228,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "close",
+      "ranges": [
+        {
+          "startOffset": 233,
+          "endOffset": 320,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "listen",
+      "ranges": [
+        {
+          "startOffset": 325,
+          "endOffset": 510,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 515,
+          "endOffset": 630,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

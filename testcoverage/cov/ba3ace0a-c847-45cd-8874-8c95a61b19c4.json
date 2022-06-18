@@ -1,0 +1,17 @@
+{
+  "scriptId": "260",
+  "url": "https://jspm.dev/npm:has@1!cjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 81,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

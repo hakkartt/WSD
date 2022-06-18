@@ -1,0 +1,17 @@
+{
+  "scriptId": "88",
+  "url": "https://deno.land/x/superoak@4.4.0/version.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 641,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

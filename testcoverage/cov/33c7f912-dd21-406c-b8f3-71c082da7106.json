@@ -1,0 +1,116 @@
+{
+  "scriptId": "123",
+  "url": "https://deno.land/x/oak@v9.0.1/buf_reader.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 16895,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 282,
+          "endOffset": 319,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BufferFullError",
+      "ranges": [
+        {
+          "startOffset": 325,
+          "endOffset": 415,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 447,
+          "endOffset": 522,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#fill",
+      "ranges": [
+        {
+          "startOffset": 528,
+          "endOffset": 1365,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "#reset",
+      "ranges": [
+        {
+          "startOffset": 1370,
+          "endOffset": 1489,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BufReader",
+      "ranges": [
+        {
+          "startOffset": 1494,
+          "endOffset": 1667,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "buffered",
+      "ranges": [
+        {
+          "startOffset": 1672,
+          "endOffset": 1737,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readLine",
+      "ranges": [
+        {
+          "startOffset": 1742,
+          "endOffset": 2834,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readSlice",
+      "ranges": [
+        {
+          "startOffset": 2839,
+          "endOffset": 4186,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

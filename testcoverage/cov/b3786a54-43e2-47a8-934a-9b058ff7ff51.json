@@ -1,0 +1,39 @@
+{
+  "scriptId": "92",
+  "url": "file:///home/arttu/Documents/WSD/testcoverage/middlewares/renderMiddleware.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 407,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "render",
+      "ranges": [
+        {
+          "startOffset": 96,
+          "endOffset": 381,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "context.render",
+      "ranges": [
+        {
+          "startOffset": 198,
+          "endOffset": 361,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

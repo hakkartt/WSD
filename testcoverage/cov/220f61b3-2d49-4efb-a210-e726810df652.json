@@ -1,0 +1,17 @@
+{
+  "scriptId": "258",
+  "url": "https://jspm.dev/npm:has-symbols@1!cjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 97,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

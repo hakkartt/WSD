@@ -1,0 +1,17 @@
+{
+  "scriptId": "236",
+  "url": "https://deno.land/std@0.105.0/_wasm_crypto/crypto.wasm.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 198924,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "scriptId": "125",
+  "url": "https://deno.land/x/oak@v9.0.1/headers.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 8249,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toParamRegExp",
+      "ranges": [
+        {
+          "startOffset": 186,
+          "endOffset": 417,
+          "count": 5
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "readHeaders",
+      "ranges": [
+        {
+          "startOffset": 425,
+          "endOffset": 1345,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "unquote",
+      "ranges": [
+        {
+          "startOffset": 1353,
+          "endOffset": 1838,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

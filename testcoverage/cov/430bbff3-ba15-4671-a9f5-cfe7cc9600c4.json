@@ -1,0 +1,564 @@
+{
+  "scriptId": "231",
+  "url": "https://jspm.dev/npm:superagent@6.1.0/lib/request-base!cjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 18862,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_typeof",
+      "ranges": [
+        {
+          "startOffset": 61,
+          "endOffset": 479,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase",
+      "ranges": [
+        {
+          "startOffset": 703,
+          "endOffset": 771,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mixin",
+      "ranges": [
+        {
+          "startOffset": 879,
+          "endOffset": 1086,
+          "count": 1
+        },
+        {
+          "startOffset": 945,
+          "endOffset": 1066,
+          "count": 30
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RequestBase.clearTimeout",
+      "ranges": [
+        {
+          "startOffset": 1213,
+          "endOffset": 1452,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RequestBase.parse",
+      "ranges": [
+        {
+          "startOffset": 1652,
+          "endOffset": 1705,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase.responseType",
+      "ranges": [
+        {
+          "startOffset": 2119,
+          "endOffset": 2184,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase.serialize",
+      "ranges": [
+        {
+          "startOffset": 2410,
+          "endOffset": 2467,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase.timeout",
+      "ranges": [
+        {
+          "startOffset": 3105,
+          "endOffset": 3790,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase.retry",
+      "ranges": [
+        {
+          "startOffset": 4060,
+          "endOffset": 4309,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase._shouldRetry",
+      "ranges": [
+        {
+          "startOffset": 5461,
+          "endOffset": 6376,
+          "count": 2
+        },
+        {
+          "startOffset": 5507,
+          "endOffset": 5545,
+          "count": 0
+        },
+        {
+          "startOffset": 5570,
+          "endOffset": 6107,
+          "count": 0
+        },
+        {
+          "startOffset": 6108,
+          "endOffset": 6139,
+          "count": 0
+        },
+        {
+          "startOffset": 6141,
+          "endOffset": 6375,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RequestBase._retry",
+      "ranges": [
+        {
+          "startOffset": 6489,
+          "endOffset": 6712,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase.then",
+      "ranges": [
+        {
+          "startOffset": 6855,
+          "endOffset": 7839,
+          "count": 2
+        },
+        {
+          "startOffset": 6986,
+          "endOffset": 7143,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 7187,
+          "endOffset": 7774,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 7239,
+          "endOffset": 7671,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 7689,
+          "endOffset": 7766,
+          "count": 2
+        },
+        {
+          "startOffset": 7728,
+          "endOffset": 7740,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RequestBase.catch",
+      "ranges": [
+        {
+          "startOffset": 7872,
+          "endOffset": 7924,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase.use",
+      "ranges": [
+        {
+          "startOffset": 7987,
+          "endOffset": 8031,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase.ok",
+      "ranges": [
+        {
+          "startOffset": 8061,
+          "endOffset": 8188,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase._isResponseOK",
+      "ranges": [
+        {
+          "startOffset": 8229,
+          "endOffset": 8397,
+          "count": 2
+        },
+        {
+          "startOffset": 8258,
+          "endOffset": 8281,
+          "count": 0
+        },
+        {
+          "startOffset": 8307,
+          "endOffset": 8346,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RequestBase.get",
+      "ranges": [
+        {
+          "startOffset": 8552,
+          "endOffset": 8616,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase.set",
+      "ranges": [
+        {
+          "startOffset": 9456,
+          "endOffset": 9743,
+          "count": 1
+        },
+        {
+          "startOffset": 9505,
+          "endOffset": 9650,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RequestBase.unset",
+      "ranges": [
+        {
+          "startOffset": 9967,
+          "endOffset": 10075,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase.field",
+      "ranges": [
+        {
+          "startOffset": 10585,
+          "endOffset": 11532,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase.abort",
+      "ranges": [
+        {
+          "startOffset": 11672,
+          "endOffset": 11905,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase._auth",
+      "ranges": [
+        {
+          "startOffset": 11938,
+          "endOffset": 12431,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase.withCredentials",
+      "ranges": [
+        {
+          "startOffset": 12741,
+          "endOffset": 12899,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase.redirects",
+      "ranges": [
+        {
+          "startOffset": 13095,
+          "endOffset": 13152,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RequestBase.maxResponseSize",
+      "ranges": [
+        {
+          "startOffset": 13375,
+          "endOffset": 13516,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase.toJSON",
+      "ranges": [
+        {
+          "startOffset": 13821,
+          "endOffset": 13944,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase.send",
+      "ranges": [
+        {
+          "startOffset": 14958,
+          "endOffset": 16244,
+          "count": 1
+        },
+        {
+          "startOffset": 15076,
+          "endOffset": 15214,
+          "count": 0
+        },
+        {
+          "startOffset": 15232,
+          "endOffset": 15246,
+          "count": 0
+        },
+        {
+          "startOffset": 15248,
+          "endOffset": 15374,
+          "count": 0
+        },
+        {
+          "startOffset": 15403,
+          "endOffset": 15430,
+          "count": 0
+        },
+        {
+          "startOffset": 15432,
+          "endOffset": 15490,
+          "count": 0
+        },
+        {
+          "startOffset": 15518,
+          "endOffset": 15541,
+          "count": 0
+        },
+        {
+          "startOffset": 15543,
+          "endOffset": 15670,
+          "count": 0
+        },
+        {
+          "startOffset": 15763,
+          "endOffset": 15781,
+          "count": 0
+        },
+        {
+          "startOffset": 15926,
+          "endOffset": 16013,
+          "count": 0
+        },
+        {
+          "startOffset": 16076,
+          "endOffset": 16110,
+          "count": 0
+        },
+        {
+          "startOffset": 16129,
+          "endOffset": 16150,
+          "count": 0
+        },
+        {
+          "startOffset": 16174,
+          "endOffset": 16243,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RequestBase.sortQuery",
+      "ranges": [
+        {
+          "startOffset": 16861,
+          "endOffset": 17023,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase._finalizeQueryString",
+      "ranges": [
+        {
+          "startOffset": 17143,
+          "endOffset": 17694,
+          "count": 2
+        },
+        {
+          "startOffset": 17208,
+          "endOffset": 17275,
+          "count": 0
+        },
+        {
+          "startOffset": 17351,
+          "endOffset": 17692,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "RequestBase._appendQueryString",
+      "ranges": [
+        {
+          "startOffset": 17770,
+          "endOffset": 17816,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase._timeoutError",
+      "ranges": [
+        {
+          "startOffset": 17924,
+          "endOffset": 18233,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "RequestBase._setTimeouts",
+      "ranges": [
+        {
+          "startOffset": 18273,
+          "endOffset": 18757,
+          "count": 2
+        },
+        {
+          "startOffset": 18339,
+          "endOffset": 18354,
+          "count": 0
+        },
+        {
+          "startOffset": 18356,
+          "endOffset": 18492,
+          "count": 0
+        },
+        {
+          "startOffset": 18543,
+          "endOffset": 18573,
+          "count": 0
+        },
+        {
+          "startOffset": 18575,
+          "endOffset": 18755,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 18387,
+          "endOffset": 18471,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 18621,
+          "endOffset": 18726,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

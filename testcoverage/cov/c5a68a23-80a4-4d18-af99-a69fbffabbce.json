@@ -1,0 +1,28 @@
+{
+  "scriptId": "192",
+  "url": "https://deno.land/std@0.101.0/async/debounce.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 4857,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "debounce",
+      "ranges": [
+        {
+          "startOffset": 7,
+          "endOffset": 670,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "scriptId": "163",
+  "url": "https://deno.land/x/oak@v9.0.1/negotiation/common.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 4818,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compareSpecs",
+      "ranges": [
+        {
+          "startOffset": 1373,
+          "endOffset": 1532,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isQuality",
+      "ranges": [
+        {
+          "startOffset": 1540,
+          "endOffset": 1591,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

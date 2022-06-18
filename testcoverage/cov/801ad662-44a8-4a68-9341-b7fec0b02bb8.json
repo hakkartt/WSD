@@ -1,0 +1,130 @@
+{
+  "scriptId": "37",
+  "url": "deno:ext/crypto/00_crypto.js",
+  "functions": [
+    {
+      "functionName": "normalizeAlgorithm",
+      "ranges": [
+        {
+          "startOffset": 4723,
+          "endOffset": 6800,
+          "count": 2
+        },
+        {
+          "startOffset": 4806,
+          "endOffset": 5241,
+          "count": 1
+        },
+        {
+          "startOffset": 5241,
+          "endOffset": 5429,
+          "count": 4
+        },
+        {
+          "startOffset": 5342,
+          "endOffset": 5423,
+          "count": 1
+        },
+        {
+          "startOffset": 5429,
+          "endOffset": 5465,
+          "count": 1
+        },
+        {
+          "startOffset": 5465,
+          "endOffset": 5579,
+          "count": 0
+        },
+        {
+          "startOffset": 5579,
+          "endOffset": 5724,
+          "count": 1
+        },
+        {
+          "startOffset": 5724,
+          "endOffset": 6799,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "digest",
+      "ranges": [
+        {
+          "startOffset": 10733,
+          "endOffset": 11622,
+          "count": 1
+        },
+        {
+          "startOffset": 11305,
+          "endOffset": 11357,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getRandomValues",
+      "ranges": [
+        {
+          "startOffset": 79914,
+          "endOffset": 81165,
+          "count": 1
+        },
+        {
+          "startOffset": 80382,
+          "endOffset": 80439,
+          "count": 0
+        },
+        {
+          "startOffset": 80440,
+          "endOffset": 80490,
+          "count": 0
+        },
+        {
+          "startOffset": 80491,
+          "endOffset": 80542,
+          "count": 0
+        },
+        {
+          "startOffset": 80543,
+          "endOffset": 80593,
+          "count": 0
+        },
+        {
+          "startOffset": 80594,
+          "endOffset": 80645,
+          "count": 0
+        },
+        {
+          "startOffset": 80646,
+          "endOffset": 80699,
+          "count": 0
+        },
+        {
+          "startOffset": 80700,
+          "endOffset": 80754,
+          "count": 0
+        },
+        {
+          "startOffset": 80773,
+          "endOffset": 80927,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get subtle",
+      "ranges": [
+        {
+          "startOffset": 81290,
+          "endOffset": 81373,
+          "count": 24
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

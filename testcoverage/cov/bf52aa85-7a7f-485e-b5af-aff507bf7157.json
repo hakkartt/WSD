@@ -1,0 +1,65 @@
+{
+  "scriptId": "119",
+  "url": "https://deno.land/x/free_port@v1.2.0/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 6174,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "random",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 87,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isFreePort",
+      "ranges": [
+        {
+          "startOffset": 95,
+          "endOffset": 568,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getFreePort",
+      "ranges": [
+        {
+          "startOffset": 576,
+          "endOffset": 1267,
+          "count": 2
+        },
+        {
+          "startOffset": 737,
+          "endOffset": 769,
+          "count": 0
+        },
+        {
+          "startOffset": 811,
+          "endOffset": 845,
+          "count": 0
+        },
+        {
+          "startOffset": 922,
+          "endOffset": 1265,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

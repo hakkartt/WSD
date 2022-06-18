@@ -1,0 +1,17 @@
+{
+  "scriptId": "246",
+  "url": "https://jspm.dev/npm:side-channel@1!cjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 167,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

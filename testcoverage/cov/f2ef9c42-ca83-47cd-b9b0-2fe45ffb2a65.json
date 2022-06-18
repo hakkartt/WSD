@@ -1,0 +1,94 @@
+{
+  "scriptId": "180",
+  "url": "https://deno.land/std@0.105.0/textproto/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 13071,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "str",
+      "ranges": [
+        {
+          "startOffset": 293,
+          "endOffset": 358,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 394,
+          "endOffset": 395,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "TextProtoReader",
+      "ranges": [
+        {
+          "startOffset": 401,
+          "endOffset": 443,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readLine",
+      "ranges": [
+        {
+          "startOffset": 448,
+          "endOffset": 561,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readMIMEHeader",
+      "ranges": [
+        {
+          "startOffset": 566,
+          "endOffset": 2000,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readLineSlice",
+      "ranges": [
+        {
+          "startOffset": 2005,
+          "endOffset": 2350,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "skipSpace",
+      "ranges": [
+        {
+          "startOffset": 2355,
+          "endOffset": 2534,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

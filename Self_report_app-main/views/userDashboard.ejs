@@ -1,0 +1,40 @@
+<%- include('./partials/header.ejs') %>
+    <h1>Home</h1>
+
+    <h6> welcome <%= user.email %></h6>
+    
+    <p>Choose what to report</p>
+
+    <form action="/behavior/reporting/morning">
+        <input class="button button-outline" type="submit" value="Morning" />
+    </form>
+    
+    <form method="GET" action="/behavior/reporting/evening">
+        <input class="button button-outline" type="submit" value="Evening" />
+    </form>
+
+    <div style="height: 20px;"></div>
+
+    <h3>Summary</h3>
+    <p>Select week</p>
+    <input type="week" id="weekInput" onchange="setWeek()">
+    <h4>Weekly averages</h4>
+    <ul id="weeklyAverages"></ul>
+
+    <div style="height: 20px;"></div>
+    <p>Select month</p>
+    <input type="month"  id="monthInput" onchange="setMonth()">
+    <h4>Monthly averages</h4>
+    <ul id="monthlyAverages"></ul>
+
+
+    <div style="height: 3vh;"></div>
+
+    <form method="POST" action="/auth/logout">
+        <input type="submit" value="Logout" />
+    </form>
+
+ 
+<%- include('./partials/footer.ejs') %>
+
+

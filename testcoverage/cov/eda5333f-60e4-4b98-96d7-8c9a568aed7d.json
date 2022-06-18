@@ -1,0 +1,50 @@
+{
+  "scriptId": "187",
+  "url": "https://deno.land/x/eta@v1.12.3/polyfills.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 1282,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getAsyncFunctionConstructor",
+      "ranges": [
+        {
+          "startOffset": 43,
+          "endOffset": 131,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "trimLeft",
+      "ranges": [
+        {
+          "startOffset": 139,
+          "endOffset": 192,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "trimRight",
+      "ranges": [
+        {
+          "startOffset": 200,
+          "endOffset": 255,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

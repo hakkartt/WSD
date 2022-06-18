@@ -1,0 +1,226 @@
+{
+  "scriptId": "134",
+  "url": "https://deno.land/std@0.105.0/http/server.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 30791,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 295,
+          "endOffset": 493,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get done",
+      "ranges": [
+        {
+          "startOffset": 499,
+          "endOffset": 559,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get contentLength",
+      "ranges": [
+        {
+          "startOffset": 564,
+          "endOffset": 1033,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get body",
+      "ranges": [
+        {
+          "startOffset": 1038,
+          "endOffset": 1867,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "respond",
+      "ranges": [
+        {
+          "startOffset": 1872,
+          "endOffset": 2218,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "finalize",
+      "ranges": [
+        {
+          "startOffset": 2223,
+          "endOffset": 2462,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 2491,
+          "endOffset": 2544,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Server",
+      "ranges": [
+        {
+          "startOffset": 2550,
+          "endOffset": 2613,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "close",
+      "ranges": [
+        {
+          "startOffset": 2618,
+          "endOffset": 2962,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "iterateHttpRequests",
+      "ranges": [
+        {
+          "startOffset": 2967,
+          "endOffset": 4332,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "trackConnection",
+      "ranges": [
+        {
+          "startOffset": 4337,
+          "endOffset": 4404,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "untrackConnection",
+      "ranges": [
+        {
+          "startOffset": 4409,
+          "endOffset": 4581,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "acceptConnAndIterateHttpRequests",
+      "ranges": [
+        {
+          "startOffset": 4586,
+          "endOffset": 5376,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 5381,
+          "endOffset": 5548,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_parseAddrFromStr",
+      "ranges": [
+        {
+          "startOffset": 5558,
+          "endOffset": 6083,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serve",
+      "ranges": [
+        {
+          "startOffset": 6091,
+          "endOffset": 6270,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "listenAndServe",
+      "ranges": [
+        {
+          "startOffset": 6278,
+          "endOffset": 6432,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "serveTLS",
+      "ranges": [
+        {
+          "startOffset": 6440,
+          "endOffset": 6630,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "listenAndServeTLS",
+      "ranges": [
+        {
+          "startOffset": 6638,
+          "endOffset": 6804,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

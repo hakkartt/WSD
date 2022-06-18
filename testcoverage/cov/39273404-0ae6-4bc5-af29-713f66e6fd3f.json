@@ -1,0 +1,28 @@
+{
+  "scriptId": "204",
+  "url": "https://deno.land/x/superdeno@4.4.0/src/superagent.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 1160,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getXHR",
+      "ranges": [
+        {
+          "startOffset": 107,
+          "endOffset": 165,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

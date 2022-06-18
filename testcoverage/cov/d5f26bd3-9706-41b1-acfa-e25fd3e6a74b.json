@@ -1,0 +1,77 @@
+{
+  "scriptId": "101",
+  "url": "https://deno.land/x/oak@v9.0.1/httpError.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 12980,
+          "count": 1
+        },
+        {
+          "startOffset": 3288,
+          "endOffset": 3348,
+          "count": 39
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 2597,
+          "endOffset": 2652,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createHttpErrorConstructor",
+      "ranges": [
+        {
+          "startOffset": 2656,
+          "endOffset": 3198,
+          "count": 39
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Ctor",
+      "ranges": [
+        {
+          "startOffset": 2796,
+          "endOffset": 3172,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createHttpError",
+      "ranges": [
+        {
+          "startOffset": 3356,
+          "endOffset": 3459,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isHttpError",
+      "ranges": [
+        {
+          "startOffset": 3467,
+          "endOffset": 3537,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

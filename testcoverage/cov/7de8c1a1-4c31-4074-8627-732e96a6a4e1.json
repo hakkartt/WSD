@@ -1,0 +1,446 @@
+{
+  "scriptId": "137",
+  "url": "https://deno.land/std@0.105.0/io/bufio.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 65076,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 405,
+          "endOffset": 442,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BufferFullError",
+      "ranges": [
+        {
+          "startOffset": 448,
+          "endOffset": 538,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 591,
+          "endOffset": 629,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "PartialReadError",
+      "ranges": [
+        {
+          "startOffset": 635,
+          "endOffset": 726,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 758,
+          "endOffset": 808,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "create",
+      "ranges": [
+        {
+          "startOffset": 821,
+          "endOffset": 931,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BufReader",
+      "ranges": [
+        {
+          "startOffset": 936,
+          "endOffset": 1109,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "size",
+      "ranges": [
+        {
+          "startOffset": 1114,
+          "endOffset": 1164,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "buffered",
+      "ranges": [
+        {
+          "startOffset": 1169,
+          "endOffset": 1219,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_fill",
+      "ranges": [
+        {
+          "startOffset": 1224,
+          "endOffset": 1975,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "reset",
+      "ranges": [
+        {
+          "startOffset": 1980,
+          "endOffset": 2030,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_reset",
+      "ranges": [
+        {
+          "startOffset": 2035,
+          "endOffset": 2130,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "read",
+      "ranges": [
+        {
+          "startOffset": 2135,
+          "endOffset": 2877,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readFull",
+      "ranges": [
+        {
+          "startOffset": 2882,
+          "endOffset": 3514,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readByte",
+      "ranges": [
+        {
+          "startOffset": 3519,
+          "endOffset": 3748,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readString",
+      "ranges": [
+        {
+          "startOffset": 3753,
+          "endOffset": 4068,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readLine",
+      "ranges": [
+        {
+          "startOffset": 4073,
+          "endOffset": 5392,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readSlice",
+      "ranges": [
+        {
+          "startOffset": 5397,
+          "endOffset": 6517,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "peek",
+      "ranges": [
+        {
+          "startOffset": 6522,
+          "endOffset": 7329,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 7360,
+          "endOffset": 7404,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "size",
+      "ranges": [
+        {
+          "startOffset": 7410,
+          "endOffset": 7460,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "available",
+      "ranges": [
+        {
+          "startOffset": 7465,
+          "endOffset": 7543,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "buffered",
+      "ranges": [
+        {
+          "startOffset": 7548,
+          "endOffset": 7603,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 7659,
+          "endOffset": 7665,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "create",
+      "ranges": [
+        {
+          "startOffset": 7678,
+          "endOffset": 7808,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BufWriter",
+      "ranges": [
+        {
+          "startOffset": 7813,
+          "endOffset": 8025,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "reset",
+      "ranges": [
+        {
+          "startOffset": 8030,
+          "endOffset": 8130,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "flush",
+      "ranges": [
+        {
+          "startOffset": 8135,
+          "endOffset": 8547,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "write",
+      "ranges": [
+        {
+          "startOffset": 8552,
+          "endOffset": 9597,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 9657,
+          "endOffset": 9663,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "create",
+      "ranges": [
+        {
+          "startOffset": 9676,
+          "endOffset": 9838,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BufWriterSync",
+      "ranges": [
+        {
+          "startOffset": 9843,
+          "endOffset": 10055,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "reset",
+      "ranges": [
+        {
+          "startOffset": 10060,
+          "endOffset": 10160,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "flush",
+      "ranges": [
+        {
+          "startOffset": 10165,
+          "endOffset": 10569,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "writeSync",
+      "ranges": [
+        {
+          "startOffset": 10574,
+          "endOffset": 11609,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createLPS",
+      "ranges": [
+        {
+          "startOffset": 11612,
+          "endOffset": 12068,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readDelim",
+      "ranges": [
+        {
+          "startOffset": 12076,
+          "endOffset": 13530,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readStringDelim",
+      "ranges": [
+        {
+          "startOffset": 13538,
+          "endOffset": 13830,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readLines",
+      "ranges": [
+        {
+          "startOffset": 13838,
+          "endOffset": 14401,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "scriptId": "105",
+  "url": "https://deno.land/x/oak@v9.0.1/range.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 16829,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ifRange",
+      "ranges": [
+        {
+          "startOffset": 270,
+          "endOffset": 651,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseRange",
+      "ranges": [
+        {
+          "startOffset": 659,
+          "endOffset": 1862,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readRange",
+      "ranges": [
+        {
+          "startOffset": 1863,
+          "endOffset": 2552,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 2646,
+          "endOffset": 2692,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MultiPartStream",
+      "ranges": [
+        {
+          "startOffset": 2698,
+          "endOffset": 4216,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "contentLength",
+      "ranges": [
+        {
+          "startOffset": 4221,
+          "endOffset": 4280,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

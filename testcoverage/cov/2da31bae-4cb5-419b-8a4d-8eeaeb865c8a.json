@@ -1,0 +1,72 @@
+{
+  "scriptId": "109",
+  "url": "https://deno.land/x/oak@v9.0.1/send.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 31624,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isHidden",
+      "ranges": [
+        {
+          "startOffset": 523,
+          "endOffset": 760,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exists",
+      "ranges": [
+        {
+          "startOffset": 761,
+          "endOffset": 895,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getEntity",
+      "ranges": [
+        {
+          "startOffset": 896,
+          "endOffset": 1390,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sendRange",
+      "ranges": [
+        {
+          "startOffset": 1391,
+          "endOffset": 2580,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "send",
+      "ranges": [
+        {
+          "startOffset": 2588,
+          "endOffset": 6949,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

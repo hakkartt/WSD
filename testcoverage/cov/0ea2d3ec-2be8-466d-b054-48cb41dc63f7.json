@@ -1,0 +1,94 @@
+{
+  "scriptId": "249",
+  "url": "https://jspm.dev/npm:qs@6.10.1/lib/parse!cjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 8650,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "interpretNumericEntities",
+      "ranges": [
+        {
+          "startOffset": 573,
+          "endOffset": 715,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseArrayValue",
+      "ranges": [
+        {
+          "startOffset": 740,
+          "endOffset": 895,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseQueryStringValues",
+      "ranges": [
+        {
+          "startOffset": 1539,
+          "endOffset": 3380,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseObject",
+      "ranges": [
+        {
+          "startOffset": 3401,
+          "endOffset": 4306,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseQueryStringKeys",
+      "ranges": [
+        {
+          "startOffset": 4325,
+          "endOffset": 5693,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "normalizeParseOptions",
+      "ranges": [
+        {
+          "startOffset": 5724,
+          "endOffset": 7845,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "exports",
+      "ranges": [
+        {
+          "startOffset": 7858,
+          "endOffset": 8566,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

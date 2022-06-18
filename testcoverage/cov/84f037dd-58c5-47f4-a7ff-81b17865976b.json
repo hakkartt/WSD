@@ -1,0 +1,149 @@
+{
+  "scriptId": "122",
+  "url": "https://deno.land/x/oak@v9.0.1/websocket.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 18996,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 149,
+          "endOffset": 2646,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get protocol",
+      "ranges": [
+        {
+          "startOffset": 2652,
+          "endOffset": 2705,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get readyState",
+      "ranges": [
+        {
+          "startOffset": 2710,
+          "endOffset": 2767,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get url",
+      "ranges": [
+        {
+          "startOffset": 2772,
+          "endOffset": 2815,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "WebSocketShim",
+      "ranges": [
+        {
+          "startOffset": 2820,
+          "endOffset": 2999,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "close",
+      "ranges": [
+        {
+          "startOffset": 3004,
+          "endOffset": 3375,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "send",
+      "ranges": [
+        {
+          "startOffset": 3380,
+          "endOffset": 4119,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "dispatchEvent",
+      "ranges": [
+        {
+          "startOffset": 4124,
+          "endOffset": 4825,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get CLOSED",
+      "ranges": [
+        {
+          "startOffset": 4830,
+          "endOffset": 4883,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get CLOSING",
+      "ranges": [
+        {
+          "startOffset": 4888,
+          "endOffset": 4943,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get CONNECTING",
+      "ranges": [
+        {
+          "startOffset": 4948,
+          "endOffset": 5009,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get OPEN",
+      "ranges": [
+        {
+          "startOffset": 5014,
+          "endOffset": 5063,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

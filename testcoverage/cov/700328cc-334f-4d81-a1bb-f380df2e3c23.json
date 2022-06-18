@@ -1,0 +1,94 @@
+{
+  "scriptId": "138",
+  "url": "https://deno.land/std@0.105.0/io/readers.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 5305,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "StringReader",
+      "ranges": [
+        {
+          "startOffset": 85,
+          "endOffset": 158,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 192,
+          "endOffset": 221,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MultiReader",
+      "ranges": [
+        {
+          "startOffset": 227,
+          "endOffset": 290,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "read",
+      "ranges": [
+        {
+          "startOffset": 295,
+          "endOffset": 567,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 603,
+          "endOffset": 620,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "LimitedReader",
+      "ranges": [
+        {
+          "startOffset": 626,
+          "endOffset": 718,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "read",
+      "ranges": [
+        {
+          "startOffset": 723,
+          "endOffset": 1048,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

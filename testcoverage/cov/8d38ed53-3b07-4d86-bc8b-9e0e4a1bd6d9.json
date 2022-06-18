@@ -1,0 +1,61 @@
+{
+  "scriptId": "162",
+  "url": "https://deno.land/x/oak@v9.0.1/isMediaType.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 7893,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mimeMatch",
+      "ranges": [
+        {
+          "startOffset": 303,
+          "endOffset": 1143,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "normalize",
+      "ranges": [
+        {
+          "startOffset": 1144,
+          "endOffset": 1456,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "normalizeType",
+      "ranges": [
+        {
+          "startOffset": 1457,
+          "endOffset": 1643,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isMediaType",
+      "ranges": [
+        {
+          "startOffset": 1651,
+          "endOffset": 2006,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

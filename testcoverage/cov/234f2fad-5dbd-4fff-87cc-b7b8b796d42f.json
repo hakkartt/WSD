@@ -1,0 +1,54 @@
+{
+  "scriptId": "262",
+  "url": "https://jspm.dev/npm:call-bind@1.0.2!cjs",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 1550,
+          "count": 1
+        },
+        {
+          "startOffset": 357,
+          "endOffset": 384,
+          "count": 0
+        },
+        {
+          "startOffset": 653,
+          "endOffset": 736,
+          "count": 0
+        },
+        {
+          "startOffset": 1378,
+          "endOffset": 1416,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "callBind",
+      "ranges": [
+        {
+          "startOffset": 750,
+          "endOffset": 1194,
+          "count": 7
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "applyBind",
+      "ranges": [
+        {
+          "startOffset": 1213,
+          "endOffset": 1286,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

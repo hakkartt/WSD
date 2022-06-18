@@ -1,0 +1,17 @@
+{
+  "scriptId": "118",
+  "url": "https://deno.land/x/superdeno@4.4.0/mod.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 901,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

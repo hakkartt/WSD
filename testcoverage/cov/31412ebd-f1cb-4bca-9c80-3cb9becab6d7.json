@@ -1,0 +1,17 @@
+{
+  "scriptId": "219",
+  "url": "https://deno.land/x/opine@1.6.0/src/methods.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 1703,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

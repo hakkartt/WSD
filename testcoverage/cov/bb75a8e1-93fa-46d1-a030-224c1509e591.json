@@ -1,0 +1,104 @@
+{
+  "scriptId": "9",
+  "url": "deno:ext/url/00_url.js",
+  "functions": [
+    {
+      "functionName": "opUrlReparse",
+      "ranges": [
+        {
+          "startOffset": 1014,
+          "endOffset": 1138,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "opUrlParse",
+      "ranges": [
+        {
+          "startOffset": 1141,
+          "endOffset": 1251,
+          "count": 8
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_urlParts",
+      "ranges": [
+        {
+          "startOffset": 1254,
+          "endOffset": 1776,
+          "count": 12
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 7983,
+          "endOffset": 8014,
+          "count": 8
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "URL",
+      "ranges": [
+        {
+          "startOffset": 8092,
+          "endOffset": 8502,
+          "count": 8
+        },
+        {
+          "startOffset": 8290,
+          "endOffset": 8413,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "set hash",
+      "ranges": [
+        {
+          "startOffset": 9480,
+          "endOffset": 9893,
+          "count": 4
+        },
+        {
+          "startOffset": 9853,
+          "endOffset": 9887,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get href",
+      "ranges": [
+        {
+          "startOffset": 11093,
+          "endOffset": 11180,
+          "count": 6
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get pathname",
+      "ranges": [
+        {
+          "startOffset": 12332,
+          "endOffset": 12427,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

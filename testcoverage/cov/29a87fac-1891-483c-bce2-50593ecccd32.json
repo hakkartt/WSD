@@ -1,0 +1,94 @@
+{
+  "scriptId": "139",
+  "url": "https://deno.land/std@0.105.0/io/streams.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 18882,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isCloser",
+      "ranges": [
+        {
+          "startOffset": 111,
+          "endOffset": 262,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readerFromIterable",
+      "ranges": [
+        {
+          "startOffset": 270,
+          "endOffset": 1308,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "writerFromStreamWriter",
+      "ranges": [
+        {
+          "startOffset": 1316,
+          "endOffset": 1529,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readerFromStreamReader",
+      "ranges": [
+        {
+          "startOffset": 1537,
+          "endOffset": 1946,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "writableStreamFromWriter",
+      "ranges": [
+        {
+          "startOffset": 1954,
+          "endOffset": 2656,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readableStreamFromIterable",
+      "ranges": [
+        {
+          "startOffset": 2664,
+          "endOffset": 3104,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readableStreamFromReader",
+      "ranges": [
+        {
+          "startOffset": 3112,
+          "endOffset": 4087,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

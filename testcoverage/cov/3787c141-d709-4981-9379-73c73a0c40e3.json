@@ -1,0 +1,44 @@
+{
+  "scriptId": "133",
+  "url": "https://deno.land/std@0.105.0/encoding/base64.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 8014,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "encode",
+      "ranges": [
+        {
+          "startOffset": 363,
+          "endOffset": 1318,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decode",
+      "ranges": [
+        {
+          "startOffset": 1326,
+          "endOffset": 1563,
+          "count": 1
+        },
+        {
+          "startOffset": 1492,
+          "endOffset": 1543,
+          "count": 145120
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

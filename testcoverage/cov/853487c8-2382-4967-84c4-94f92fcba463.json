@@ -1,0 +1,127 @@
+{
+  "scriptId": "95",
+  "url": "https://deno.land/x/oak@v9.0.1/context.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 18424,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 471,
+          "endOffset": 687,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get isUpgradable",
+      "ranges": [
+        {
+          "startOffset": 516,
+          "endOffset": 583,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get socket",
+      "ranges": [
+        {
+          "startOffset": 628,
+          "endOffset": 677,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Context",
+      "ranges": [
+        {
+          "startOffset": 693,
+          "endOffset": 1110,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assert",
+      "ranges": [
+        {
+          "startOffset": 1115,
+          "endOffset": 1378,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "send",
+      "ranges": [
+        {
+          "startOffset": 1383,
+          "endOffset": 1528,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sendEvents",
+      "ranges": [
+        {
+          "startOffset": 1533,
+          "endOffset": 1908,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "throw",
+      "ranges": [
+        {
+          "startOffset": 1913,
+          "endOffset": 2103,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "upgrade",
+      "ranges": [
+        {
+          "startOffset": 2108,
+          "endOffset": 2700,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 2705,
+          "endOffset": 3087,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

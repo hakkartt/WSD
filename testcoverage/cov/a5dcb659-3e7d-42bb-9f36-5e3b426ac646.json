@@ -1,0 +1,394 @@
+{
+  "scriptId": "99",
+  "url": "https://deno.land/x/oak@v9.0.1/http_server_native.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 23862,
+          "count": 1
+        },
+        {
+          "startOffset": 203,
+          "endOffset": 214,
+          "count": 0
+        },
+        {
+          "startOffset": 324,
+          "endOffset": 335,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hasNativeHttp",
+      "ranges": [
+        {
+          "startOffset": 344,
+          "endOffset": 396,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 430,
+          "endOffset": 543,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "NativeRequest",
+      "ranges": [
+        {
+          "startOffset": 549,
+          "endOffset": 1042,
+          "count": 2
+        },
+        {
+          "startOffset": 727,
+          "endOffset": 756,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 870,
+          "endOffset": 974,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get body",
+      "ranges": [
+        {
+          "startOffset": 1047,
+          "endOffset": 1100,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get donePromise",
+      "ranges": [
+        {
+          "startOffset": 1105,
+          "endOffset": 1167,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get headers",
+      "ranges": [
+        {
+          "startOffset": 1172,
+          "endOffset": 1231,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get method",
+      "ranges": [
+        {
+          "startOffset": 1236,
+          "endOffset": 1293,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get remoteAddr",
+      "ranges": [
+        {
+          "startOffset": 1298,
+          "endOffset": 1371,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get request",
+      "ranges": [
+        {
+          "startOffset": 1376,
+          "endOffset": 1427,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get url",
+      "ranges": [
+        {
+          "startOffset": 1432,
+          "endOffset": 1647,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get rawUrl",
+      "ranges": [
+        {
+          "startOffset": 1652,
+          "endOffset": 1706,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "error",
+      "ranges": [
+        {
+          "startOffset": 1711,
+          "endOffset": 1895,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "respond",
+      "ranges": [
+        {
+          "startOffset": 1900,
+          "endOffset": 2128,
+          "count": 2
+        },
+        {
+          "startOffset": 1948,
+          "endOffset": 2021,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "upgrade",
+      "ranges": [
+        {
+          "startOffset": 2133,
+          "endOffset": 2553,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 2592,
+          "endOffset": 2680,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "HttpServerNative",
+      "ranges": [
+        {
+          "startOffset": 2686,
+          "endOffset": 2913,
+          "count": 2
+        },
+        {
+          "startOffset": 2750,
+          "endOffset": 2849,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get app",
+      "ranges": [
+        {
+          "startOffset": 2918,
+          "endOffset": 2961,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get closed",
+      "ranges": [
+        {
+          "startOffset": 2966,
+          "endOffset": 3015,
+          "count": 8
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "close",
+      "ranges": [
+        {
+          "startOffset": 3020,
+          "endOffset": 3511,
+          "count": 2
+        },
+        {
+          "startOffset": 3309,
+          "endOffset": 3456,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "listen",
+      "ranges": [
+        {
+          "startOffset": 3516,
+          "endOffset": 3684,
+          "count": 2
+        },
+        {
+          "startOffset": 3605,
+          "endOffset": 3636,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#trackHttpConnection",
+      "ranges": [
+        {
+          "startOffset": 3689,
+          "endOffset": 3772,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "#untrackHttpConnection",
+      "ranges": [
+        {
+          "startOffset": 3777,
+          "endOffset": 3865,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 3870,
+          "endOffset": 5801,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "start",
+      "ranges": [
+        {
+          "startOffset": 3919,
+          "endOffset": 5693,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "serve",
+      "ranges": [
+        {
+          "startOffset": 3982,
+          "endOffset": 4979,
+          "count": 2
+        },
+        {
+          "startOffset": 4145,
+          "endOffset": 4965,
+          "count": 4
+        },
+        {
+          "startOffset": 4299,
+          "endOffset": 4610,
+          "count": 2
+        },
+        {
+          "startOffset": 4610,
+          "endOffset": 4733,
+          "count": 0
+        },
+        {
+          "startOffset": 4733,
+          "endOffset": 4773,
+          "count": 2
+        },
+        {
+          "startOffset": 4773,
+          "endOffset": 4947,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "accept",
+      "ranges": [
+        {
+          "startOffset": 5067,
+          "endOffset": 5661,
+          "count": 2
+        },
+        {
+          "startOffset": 5122,
+          "endOffset": 5647,
+          "count": 4
+        },
+        {
+          "startOffset": 5211,
+          "endOffset": 5490,
+          "count": 2
+        },
+        {
+          "startOffset": 5351,
+          "endOffset": 5468,
+          "count": 0
+        },
+        {
+          "startOffset": 5530,
+          "endOffset": 5629,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

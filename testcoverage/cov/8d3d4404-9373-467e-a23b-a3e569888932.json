@@ -1,0 +1,22 @@
+{
+  "scriptId": "38",
+  "url": "deno:ext/crypto/01_webidl.js",
+  "functions": [
+    {
+      "functionName": "webidl.converters.AlgorithmIdentifier",
+      "ranges": [
+        {
+          "startOffset": 439,
+          "endOffset": 637,
+          "count": 1
+        },
+        {
+          "startOffset": 529,
+          "endOffset": 584,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

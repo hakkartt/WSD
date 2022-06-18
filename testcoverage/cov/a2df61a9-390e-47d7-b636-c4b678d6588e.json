@@ -1,0 +1,17 @@
+{
+  "scriptId": "113",
+  "url": "https://deno.land/x/oak@v9.0.1/deps.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 5200,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

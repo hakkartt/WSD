@@ -1,0 +1,149 @@
+{
+  "scriptId": "166",
+  "url": "https://deno.land/std@0.105.0/http/_io.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 43988,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "emptyReader",
+      "ranges": [
+        {
+          "startOffset": 323,
+          "endOffset": 440,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "bodyReader",
+      "ranges": [
+        {
+          "startOffset": 448,
+          "endOffset": 1079,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "chunkedBodyReader",
+      "ranges": [
+        {
+          "startOffset": 1087,
+          "endOffset": 3733,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isProhibidedForTrailer",
+      "ranges": [
+        {
+          "startOffset": 3734,
+          "endOffset": 3886,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readTrailers",
+      "ranges": [
+        {
+          "startOffset": 3894,
+          "endOffset": 4807,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseTrailer",
+      "ranges": [
+        {
+          "startOffset": 4808,
+          "endOffset": 5366,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "writeChunkedBody",
+      "ranges": [
+        {
+          "startOffset": 5374,
+          "endOffset": 5833,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "writeTrailers",
+      "ranges": [
+        {
+          "startOffset": 5841,
+          "endOffset": 7058,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "writeResponse",
+      "ranges": [
+        {
+          "startOffset": 7066,
+          "endOffset": 8886,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseHTTPVersion",
+      "ranges": [
+        {
+          "startOffset": 8894,
+          "endOffset": 9833,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "readRequest",
+      "ranges": [
+        {
+          "startOffset": 9841,
+          "endOffset": 10408,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fixLength",
+      "ranges": [
+        {
+          "startOffset": 10409,
+          "endOffset": 11281,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}
